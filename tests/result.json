@@ -1,0 +1,4489 @@
+{
+ "name": "Virtual University of Pakistan",
+ "type": "public_channel",
+ "id": 9999969886,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2020-10-30T11:36:47",
+   "actor": "Virtual University of Pakistan",
+   "actor_id": 9999969886,
+   "action": "create_channel",
+   "title": "Virtual University of Pakistan",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2020-10-30T11:39:19",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_1@30-10-2020_11-39-19.jpg",
+   "width": 1280,
+   "height": 851,
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2020-10-30T11:39:47",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 2,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of First Voucher to Continuing Students (Fall, 2020)"
+    },
+    "\n\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Oct 29, 2020"
+    },
+    "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from October 22, 2020 to October 29, 2020. \n\nYou are directed to deposit payable voucher as per given schedule."
+   ]
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2020-10-30T11:52:18",
+   "actor": "Virtual University of Pakistan",
+   "actor_id": 9999969886,
+   "action": "edit_group_photo",
+   "photo": "photos/photo_2@30-10-2020_11-52-18.jpg",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2020-10-30T11:55:50",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "MS Computer Science (Fall 2020 Semester)"
+    },
+    "\n\nMerit List of Candidates Eligible for Interview Published\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4348"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2020-10-30T12:20:26",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_3@30-10-2020_12-20-26.jpg",
+   "width": 649,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2020-10-30T12:21:06",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/2020 Fall Semester MSCS Merit List.png",
+   "thumbnail": "files/2020 Fall Semester MSCS Merit List.png_thumb.jpg",
+   "mime_type": "image/png",
+   "width": 3987,
+   "height": 7857,
+   "text": ""
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2020-11-05T18:39:51",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_4@05-11-2020_18-39-51.jpg",
+   "width": 1274,
+   "height": 632,
+   "text": "Course selection is not working for MSCS students.\n\nOn 2020-11-05, MS CS department has reported that this error has been referred to the IT department and will get fixed soon."
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2020-11-09T14:24:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Extension in due date of Need based Scholarship for Fall, 2020 "
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 6, 2020"
+    },
+    "\n\nAll the students are informed that last date to apply for need based scholarship (Fall'2020 semester) has been extended till Thursday, November 12, 2020.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4350"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2020-11-09T14:28:45",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 8,
+   "photo": "photos/photo_5@09-11-2020_14-28-45.jpg",
+   "width": 810,
+   "height": 530,
+   "text": [
+    "On 2020-11-06, MSCS department sent out this email to all MSCS students from ",
+    {
+     "type": "code",
+     "text": "mscs_courseselection@vu.edu.pk"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2020-11-09T16:29:14",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "To find email addresses of other VU students"
+    },
+    ", log in to your VU Gmail account and then visit this link:\n\n",
+    {
+     "type": "link",
+     "text": "https://contacts.google.com/directory"
+    },
+    "\n\nIt will take some time to load. Eventually, it will display all the email addresses that are present in the VU organization.\n\nThe administrators have kept some addresses hidden probably for privacy and to fight spam.\n\nYou can look up other students from your batch, using your VU ID.\n\n",
+    {
+     "type": "bold",
+     "text": "Kindly do not use abuse this system."
+    },
+    " So far, VU has not provided any way for students to communicate with each other. ",
+    {
+     "type": "bold",
+     "text": "If you misuse it, then administrators can hide the directory, and we will not be able to discover our fellow batch members."
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2020-11-09T16:58:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of 1st Voucher to Continuing Students (Fall-2020 Semester)"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, November 9, 2020 "
+    },
+    "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from October 29, 2020 to November 09, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to October 29, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4351"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2020-11-09T17:04:16",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_6@09-11-2020_17-04-16.jpg",
+   "width": 1191,
+   "height": 1280,
+   "text": [
+    "VU has published the date of ",
+    {
+     "type": "bold",
+     "text": "mid term exams"
+    },
+    ".\n\n",
+    {
+     "type": "bold",
+     "text": "2020-12-26 (December 26)"
+    },
+    "\n\n",
+    {
+     "type": "italic",
+     "text": "Source"
+    },
+    ": ",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/StudentServices/AcademicCalendar.aspx"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "service",
+   "date": "2020-11-09T17:04:23",
+   "actor": "Virtual University of Pakistan",
+   "actor_id": 9999969886,
+   "action": "pin_message",
+   "message_id": 12,
+   "text": ""
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2020-11-09T18:58:38",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Michael_Sipser_Introduction_to_the_Theory_of_Computation_2012,_Thomson.pdf",
+   "thumbnail": "files/Michael_Sipser_Introduction_to_the_Theory_of_Computation_2012,_Thomson.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 Theory of Computation"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Required subject for MSCS students\n"
+    },
+    "\nIntroduction to the theory of computation\nby Michael Sipser\n3rd Edition"
+   ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2020-11-09T19:02:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Introduction_to_the_theory_of_computation.pdf",
+   "thumbnail": "files/Introduction_to_the_theory_of_computation.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 Theory of Computation"
+    },
+    "\nIt's a required subject for MSCS students.\n\nIntroduction to the theory of computation\nby Michael Sipser\n2nd Edition"
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2020-11-09T19:27:57",
+   "edited": "2020-11-09T19:28:55",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS701 Theory of Computation Lecture Slides.pdf",
+   "thumbnail": "files/CS701 Theory of Computation Lecture Slides.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 Theory of Computation"
+    },
+    "\nIt's a required subject for MSCS students.\n\nAll lecture slides have been merged into one PDF.\n\n",
+    {
+     "type": "italic",
+     "text": "Some slides are incorrectly "
+    },
+    "labelled",
+    {
+     "type": "italic",
+     "text": " and repeated in the source material."
+    },
+    "\nI have tried to correct the issues as much as possible."
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2020-11-10T12:41:12",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS702 Advanced Algorithms Analysis and Design Lecture Slides.pdf",
+   "thumbnail": "files/CS702 Advanced Algorithms Analysis and Design Lecture Slides.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Required subject for MSCS"
+    },
+    "\n\nI have converted all the PPT slides to PDF and then merged them into one."
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2020-11-10T14:26:52",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Federal Minister for IT om, Syed Ameen Ul Haq visited Virtual University"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, November 10, 2020 "
+    },
+    "\n\n> He also visited Virtual University, M.A Jinnah Campus (Head Office) and ",
+    {
+     "type": "bold",
+     "text": "inaugurated"
+    },
+    " the newly launched “Learning Management System” for VU students.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2020-11-10T15:05:08",
+   "edited": "2020-11-10T15:06:26",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    "⚠️ ",
+    {
+     "type": "bold",
+     "text": "Attention MSCS 2020 students"
+    },
+    " ⚠️\nThe bug in VULMS course selection has been ",
+    {
+     "type": "bold",
+     "text": "fixed"
+    },
+    ".\n\nPlease make your course selection ASAP."
+   ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2020-11-10T15:09:19",
+   "edited": "2020-11-10T16:00:33",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 20,
+   "photo": "photos/photo_7@10-11-2020_15-09-19.jpg",
+   "width": 1280,
+   "height": 254,
+   "text": "Finalize your course selection by 2020-11-12"
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2020-11-10T17:46:39",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS719-Research Methodologies"
+    },
+    " is not available for selection in the first semester of MSCS.\n\n",
+    {
+     "type": "italic",
+     "text": "Official VU response:"
+    },
+    "\nYou will be able to select it in the second semester."
+   ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2020-11-10T18:11:12",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    "⚠️ About MSCS course selection ⚠️\nOfficial VU response:\n\nAs per HEC guidelines, \n",
+    {
+     "type": "bold",
+     "text": "In first semester, you should choose two required courses and one course from your specialization. "
+    },
+    "\n\nYou can choose courses from any semester but it is better to choose two required courses and one course from your specialization even if these are 2nd or any semester courses."
+   ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2020-11-11T14:25:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Board of Governors of Virtual University had a meeting with the President of Pakistan"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, November 11, 2020 "
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4354"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2020-11-11T14:28:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_8@11-11-2020_14-28-46.jpg",
+   "width": 1196,
+   "height": 1162,
+   "text": [
+    "President of Pakistan, Dr Arif Alvi tweeted about Virtual University.\nHe said\n\n",
+    {
+     "type": "italic",
+     "text": "Vitual University will lead the way towards a future of non-elitist higher education, available at much lower cost than that available at physical brick & mortar universities. A great opportunity for those who pass FA/FSc, need to earn livelihood, & at same time study for BA/BSc."
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2020-11-11T14:31:48",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_9@11-11-2020_14-31-48.jpg",
+   "width": 462,
+   "height": 618,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Gudielines for MSCS Course Selection"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Official VU response"
+    },
+    "\n\nYou can select ",
+    {
+     "type": "bold",
+     "text": "minimum one"
+    },
+    " and ",
+    {
+     "type": "bold",
+     "text": "maximum three"
+    },
+    " courses in a semester. \n\nPlease see the attached image for the generic semester wise guideline for course selection, as ",
+    {
+     "type": "bold",
+     "text": "recommended by HEC"
+    },
+    "."
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2020-11-12T17:59:11",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Course Selection due date has been extended up to Wednesday, November 18"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, November 12, 2020 "
+    },
+    "\n\nIt is hereby intimated that course selection due date for add/drop/replace course(s) has been extended up to Wednesday, November 18, 2020.\n\nStudents’ failing to enroll/ select any course(s) by the last date will be treated as “Inactive Student” such students may continue their studies after “Readmission” as per the University policy.\n\nNote:\n\n1.    Students' will be responsible for his/her late course enrollment, any quizzes or assignment(s) if have been given or taken; \n2.    No request for the enrollment of courses and unfreeze of semester will be entertained after above said date;\n3.    Fee voucher once issued will not be adjusted/revised.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4355"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2020-11-12T18:00:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Last date to apply for need based scholarship has been extended to Wednesday, November 18, 2020"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, November 12, 2020"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4356"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2020-11-13T16:38:13",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Last chance to deposit fee for admission in fall 2020 session"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 13, 2020"
+    },
+    "\n\nApplicants whose Admission Application Forms were accepted for admission in their respective study program are informed to ",
+    {
+     "type": "bold",
+     "text": "deposit “Admission Fee Voucher” on or before Wednesday, November 18, 2020"
+    },
+    " for the confirmation of their admissions.\n\nNo request will be entertained after November 18, 2020. \n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4357"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2020-11-14T15:49:57",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS706 - Software Quality Assurance.pdf",
+   "thumbnail": "files/CS706 - Software Quality Assurance.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance"
+    },
+    "\nLecture Slides\n\nI have converted all the slides into PDF and them merged them into a single file."
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2020-11-16T18:11:05",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of 1st Voucher to Continuing Students (Fall'2020 Semester)"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, November 16, 2020"
+    },
+    "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 09, 2020 to November 16, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 09, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4358"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2020-11-17T23:15:52",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 18,
+   "file": "files/CS702 - Advanced Algorithms Analysis and Design-Handouts.pdf",
+   "thumbnail": "files/CS702 - Advanced Algorithms Analysis and Design-Handouts.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Lecture Handouts"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2020-11-17T23:21:10",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 17,
+   "file": "files/CS701 - Theory of Computation-Handouts.pdf",
+   "thumbnail": "files/CS701 - Theory of Computation-Handouts.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation"
+    },
+    "\nLecture Handouts"
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2020-11-17T23:22:39",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 31,
+   "file": "files/CS706 - Software Quality Assurance-Handouts.pdf",
+   "thumbnail": "files/CS706 - Software Quality Assurance-Handouts.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance "
+    },
+    "\nLecture Handouts"
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2020-11-17T23:31:14",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Introduction to Algorithms - Thomas H.. Cormen.pdf",
+   "thumbnail": "files/Introduction to Algorithms - Thomas H.. Cormen.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\nComplementary Book\n",
+    {
+     "type": "italic",
+     "text": "Very important"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2020-11-18T12:24:09",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_10@18-11-2020_12-24-09.jpg",
+   "width": 1280,
+   "height": 435,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance"
+    },
+    "\nSkype Session"
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2020-11-18T12:25:11",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_11@18-11-2020_12-25-11.jpg",
+   "width": 1148,
+   "height": 326,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\nSkpe Session"
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2020-11-19T13:50:18",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation "
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "JFLAP 7.0 Simulator Tutorial for designing Turing Machines "
+    },
+    "\n\nPlease visit following tutorial link for using the JFLAP 7.0 Simulator. \n\nJFLAP is software for experimenting with formal languages topics including nondeterministic finite automata, Turing machines, and multi-tape Turing machines. \n\nIn addition to constructing and testing examples for these, JFLAP allows one to experiment with construction proofs from one form to another. \n\nThis tutorial will help design the Turing machine in upcoming your assignment task.\n\n",
+    {
+     "type": "link",
+     "text": "http://www.jflap.org/tutorial/"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2020-11-19T13:51:58",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\nWeekly Online Interactive Sessions"
+    },
+    "\n\nWe will have online interactive sessions every week through Skype on:\n\n",
+    {
+     "type": "italic",
+     "text": "Monday from 3:00 PM to 4:00 PM"
+    },
+    "\n\nTopic/Agenda for these sessions will be “Topics discussed in lectures scheduled in the previous week”. \n\nSkype id to join the session:        ",
+    {
+     "type": "bold",
+     "text": "saima.vu1"
+    },
+    "\n\nPlease send a request to the above mentioned skype id. Enter your VU ID and name to join the session during the designated time."
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2020-11-19T13:53:22",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Expected date and topics of the first assignment"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Offifical Response"
+    },
+    "\n\nAssignment may be uploaded next week, and it will cover all delivered lectures, uptill now."
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2020-11-20T19:20:37",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf",
+   "thumbnail": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\nComplementary Book\n3rd Edition"
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2020-11-20T23:17:16",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of First Voucher to Continuing Students (Fall'2020 Semester) "
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 20, 2020"
+    },
+    "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 16, 2020 to November 20, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 16, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4359"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2020-11-20T23:17:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of Semester Voucher for Fall, 2020"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 20, 2020"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4360"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2020-11-23T04:51:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Ozsu_M_T_,_Valduriez_P_Principles_of_distributed_database_systems.pdf",
+   "thumbnail": "files/Ozsu_M_T_,_Valduriez_P_Principles_of_distributed_database_systems.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS712 - Distributed DBMS "
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Principles Of Distributed Database Systems\n"
+    },
+    "M. Tamer Özsu, Patrick Valduriez"
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2020-11-23T14:02:21",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS701_Assignment_No.1_Fall 2020.pdf",
+   "thumbnail": "files/CS701_Assignment_No.1_Fall 2020.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation "
+    },
+    "\nAssignment 1\nDue Date: 2020-11-30\n🚨",
+    {
+     "type": "bold",
+     "text": "Total Marks: 50"
+    },
+    "🚨"
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2020-11-23T14:02:25",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Assignment Paper.pdf",
+   "thumbnail": "files/Assignment Paper.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2020-11-23T18:58:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 40,
+   "file": "files/JFLAP7.1.jar",
+   "mime_type": "application/java-archive",
+   "text": "JFLAP 7.1 version"
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2020-11-23T19:27:33",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/jdk-15.0.1_windows-x64_bin.exe",
+   "mime_type": "application/octet-stream",
+   "text": "Java SE\nSetup for Windows 64bit"
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2020-11-23T20:41:58",
+   "edited": "2020-11-23T20:42:06",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation "
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Assignment 1 - 2020-11-23"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Steps to run JFLAP"
+    },
+    "\n\n1. Install latest Java\n",
+    {
+     "type": "italic",
+     "text": "Java8 is not necessary. Get the latest one. I ran the JFLAP from OpenJDK 15"
+    },
+    "\nDirect Download: ",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/50"
+    },
+    "\n\n2. Download the jar file\nDirect Download: ",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/49"
+    },
+    "\n\n3. Double click on the ",
+    {
+     "type": "code",
+     "text": "jar"
+    },
+    " file\nOr\n\nOpen command line and write\n",
+    {
+     "type": "code",
+     "text": "java -jar <path to the jar file>"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2020-11-24T14:41:13",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_12@24-11-2020_14-41-13.jpg",
+   "width": 1002,
+   "height": 780,
+   "text": "This screenshot was taken at 14:40 (2:40PM) on 2020-11-24"
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2020-11-24T14:52:52",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation "
+    },
+    "\nYouTube playlist of VU lectures\n\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=oF92Z7qVivs&list=PL6FD2A444D412987C"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2020-11-24T14:53:21",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "YouTube playlist of VU lectures\n\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=dmpDMkiTB8M&list=PL104E439436B0B73E"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2020-11-24T14:53:47",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS710 Mobile and Pervasive Computing\n"
+    },
+    "YouTube playlist of VU lectures\n\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=WOC931tF3IM&list=PLFX_EwFvKKWMzUgvb5xT2bjA8o6nrblK8"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2020-11-24T22:25:48",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 52,
+   "text": [
+    "VU websites are under maintenance due to a technical issue. Please check back at ",
+    {
+     "type": "bold",
+     "text": "10 PM"
+    },
+    " for updates. Inconvenience is regretted. \n\n(Checked at 22:25)"
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2020-11-25T12:26:55",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 52,
+   "text": "LMS has resumed WORKING partially"
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2020-11-27T14:29:31",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "LMS Service Outage"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, November 26, 2020 "
+    },
+    "\n\nWe regret the recent outage of our LMS service which was impacted due to certain externally generated non-genuine traffic. The ICT teams worked diligently to identify and mitigate the issue in order to normalize our services. \n\nInconvenience caused is highly regretted. \n\nPlease check with your respective course instructors for any rescheduling in your semester activities.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4361"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2020-11-27T14:30:17",
+   "edited": "2020-11-27T14:30:33",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Extension in due date of October'2020 Vouchers "
+    },
+    "\n(Due date was November 23, 2020)\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, November 26, 2020 "
+    },
+    "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 23, 2020 has been extended till November 27, 2020.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4362"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2020-11-27T14:31:12",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Extension In Due Date Of Installment Fee Voucher For The Month Of December, 2020"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, November 26, 2020 "
+    },
+    "\n\nKeeping in view financial difficulties, the University has decided to give relaxation to students by extending due date of December’2020 installment voucher which has been extended till December 21, 2020. \n\nThis will applicable on those students who have made 5 installments of Fall'2020 semester dues (2 installments were due on December 4, 2020).\n\nStudents having 3 installments of Semester Dues for Fall'2020 will pay the dues as per given schedule.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4363"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2020-11-27T14:33:36",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Assignment No 1.pdf",
+   "thumbnail": "files/Assignment No 1.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Assignment 1"
+    },
+    "\n\nDue date is ",
+    {
+     "type": "bold",
+     "text": "3rd  December 2020"
+    },
+    "\nTotal Marks: 50"
+   ]
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2020-11-27T14:33:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 61,
+   "file": "files/Design_and_analysis_of_algorithms_reconsidered.pdf",
+   "thumbnail": "files/Design_and_analysis_of_algorithms_reconsidered.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2020-11-27T14:33:54",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 61,
+   "file": "files/Assignment No 1.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2020-11-28T05:40:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Federal Minister for IT visited Virtual University"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 27, 2020 "
+    },
+    "\n\nFederal Minister for Information Technology (IT) & Telecom, Syed Ameen Ul Haq paid a visit to Virtual University of Pakistan, Kala Shah Kaku Campus\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2020-11-28T05:41:29",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Extension In Due Date Of October'2020 Vouchers"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, November 27, 2020 "
+    },
+    "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 27, 2020 has been further extended till ",
+    {
+     "type": "bold",
+     "text": "December 10, 2020"
+    },
+    ".\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4364"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2020-11-30T16:57:12",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 47,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation "
+    },
+    "\nAssignment 1\n\nDue date of assignment no 1 has been ",
+    {
+     "type": "bold",
+     "text": "extended"
+    },
+    ". Now you can submit the assignment till ",
+    {
+     "type": "bold",
+     "text": "December 03, 2020"
+    },
+    ".\n\nAlso, VU gives an extension of 24 hours, after every assignment's deadline for emergencies.\nThis extension is granted for assignments only. Quizes, GDB and MidTerm and FinalExams have no such provision."
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2020-11-30T19:29:22",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS706_1.pdf",
+   "thumbnail": "files/Fall 2020_CS706_1.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance\n"
+    },
+    "Academic Research Paper\nTotal Marks: ",
+    {
+     "type": "bold",
+     "text": "100"
+    },
+    "\nDue date: 2021-02-01"
+   ]
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2020-11-30T19:29:32",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 67,
+   "file": "files/Fall 2020_CS706_1.doc",
+   "mime_type": "application/msword",
+   "text": ""
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2020-12-01T10:41:01",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Assignment No. 1_706_20.pdf",
+   "thumbnail": "files/Assignment No. 1_706_20.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance\n"
+    },
+    "Assignment 2\nTotal Marks: 5",
+    {
+     "type": "bold",
+     "text": "0"
+    },
+    "\nDue date: 2020-12-05"
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2020-12-01T10:41:47",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 69,
+   "file": "files/Assignment No. 1_706_20.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2020-12-01T10:42:02",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 69,
+   "file": "files/software quality assurance.pdf",
+   "thumbnail": "files/software quality assurance.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2020-12-03T00:59:36",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Officers from Press Information Department visited VU"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, December 2, 2020"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4366"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2020-12-03T01:01:09",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Mid Term Quiz instead of Mid Term Examinations"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, December 2, 2020 "
+    },
+    "\n\nDue to the prevailing COVID - 19 Pandemic, the Virtual University of Pakistan has decided that an online “Mid Term Quiz” will be conducted in lieu of Mid Term Examinations for the Fall 2020 semester.\n\nPlease note the followings:\n\n1. The date sheet schedule for “Mid Term Quiz” will be published after ",
+    {
+     "type": "bold",
+     "text": "December 16, 2020"
+    },
+    ".\n2. “Mid Term Quiz” will be conducted between ",
+    {
+     "type": "bold",
+     "text": "December 26, 2020, to January 10, 2021"
+    },
+    ".\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4367"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2020-12-05T18:07:14",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Extension In Due Date Of Fee Vouchers"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Saturday, December 5, 2020"
+    },
+    "\n\nDue to Connectivity issues, students are informed that due date of fee vouchers which were due on December 04, 2020 or December 05, 2020 has been extended till ",
+    {
+     "type": "bold",
+     "text": "December 07, 2020"
+    },
+    ".\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4368"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2020-12-06T13:53:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "On issues and bugs in the new version of LMS"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Sunday, December 6, 2020 "
+    },
+    "\n\nRecently, Virtual University of Pakistan launched a new version of LMS with a new user interface and intuitive features. However, some functionality and features have been presented differently for ease of use and student activity tracking. Like any new version of a software some features are liked by users and others take time getting used to. ",
+    {
+     "type": "bold",
+     "text": "The ICT teams are actively looking into any complaints and evaluating feedback in order to make it even better and more functional.\n"
+    },
+    "\nAt the same time, unfortunately, ",
+    {
+     "type": "bold",
+     "text": "some miscreants started generating severe BruteForce and DDoS cyber-attacks on LMS to make it inaccessible "
+    },
+    "for obvious reasons. The ICT teams are continuously taking measures to mitigate these attacks on our websites and will not rest till the issue is resolved. We regret the inconvenience caused and appreciate your patience.\n\nThe University authorities have identified these sources and gathered the requisite information, which is now being sent to FIA Cyber Crimes wing for further action against these culprits.\n\nFurthermore, to compensate students with their graded activities the university extended the deadlines for different graded activities as deemed appropriate, so that students could make their submissions.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4369"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2020-12-06T14:16:26",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "forwarded_from": "VU NOTICES",
+   "photo": "photos/photo_13@06-12-2020_14-16-26.jpg",
+   "width": 680,
+   "height": 680,
+   "text": ""
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2020-12-07T13:43:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "VU Cisco Network Academy is starting a new batch"
+    },
+    "\n\nVU Cisco Network Academy is starting a new batch of the following courses.\n\n1. Network Essentials\n2. Introduction to Internet of Things (IoT)\n\nThese are basic courses, but it will open the doors to several highly valuable certifications. This is just the first step to a whole new dimension of IT related courses.\n\nSo, don’t miss the opportunity and get yourself enrolled in the courses and get an internationally recognized certificate.\n\nPlease visit ",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/netacad/"
+    },
+    " for registration.\n\nRegistration opening date is ",
+    {
+     "type": "bold",
+     "text": "3 December, 2020"
+    },
+    "\nRegistration closing date is ",
+    {
+     "type": "bold",
+     "text": "8 December, 2020"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2020-12-09T12:15:53",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 73,
+   "text": [
+    "On ",
+    {
+     "type": "italic",
+     "text": "December 3, 2020"
+    },
+    ", VU clarified that \nin place of Mid Term Exams, it will either conduct a Mid Term ",
+    {
+     "type": "bold",
+     "text": "Quiz"
+    },
+    " or will issue a ",
+    {
+     "type": "bold",
+     "text": "Special Assignment"
+    },
+    "."
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2020-12-09T23:19:22",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Postgraduate Students : Submit your Migration Certificate"
+    },
+    "\n\nAll students (",
+    {
+     "type": "italic",
+     "text": "Except VU graduates"
+    },
+    ") are required to submit their ",
+    {
+     "type": "bold",
+     "text": "Migration Certificate (original)"
+    },
+    " from the last Pakistani institute/university attended to the office of the Registrar within 6 weeks of issuance of their admission offer letter. \nSubmit the same on or before ",
+    {
+     "type": "bold",
+     "text": "January 11, 2021"
+    },
+    "\n\nPlease note the following:\n\n1. Photocopy/color copy/scanned copy of Migration Certificate is unacceptable.\n2. (a) Campus based students may submit the said certificate to their respective campus and obtain receipt.\n2. (b) Home based/overseas students may send directly to VU Head Office address.\n3. VU ID must be clearly mentioned on top right corner of the migration certificate."
+   ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2020-12-14T16:05:24",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Former Chairman"
+    },
+    " of Virtual University Board of Governors passed away\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, December 14, 2020"
+    },
+    "\nاِنَّا لِلّٰہِ وَاِنَّآ اِلَیْہِ رَاجِعُوْنَ\n\nMr. Maroof Afzal passed away due to Covid-19 on Thursday, December 10, 2020\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4370"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2020-12-16T00:02:33",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS701_Assignment_No.2_Fall 2020.pdf",
+   "thumbnail": "files/CS701_Assignment_No.2_Fall 2020.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Assignment 2"
+    },
+    "\nDue Date: Dec 21, 2020\nMarks: 50"
+   ]
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2020-12-16T00:02:47",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 81,
+   "file": "files/yongmingli2008.pdf",
+   "thumbnail": "files/yongmingli2008.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2020-12-16T12:14:03",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Ass_2(CS702).pdf",
+   "thumbnail": "files/Ass_2(CS702).pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\nAssignment 2"
+    },
+    "\nDue Date: Dec 21, 2020\nMarks: 50"
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2020-12-16T12:14:28",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 83,
+   "file": "files/Ass_2(CS702).docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2020-12-16T12:14:39",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 83,
+   "file": "files/Research_and_Practice_on_Algorithm_Analysis_and_Design_Course_Teaching.pdf",
+   "thumbnail": "files/Research_and_Practice_on_Algorithm_Analysis_and_Design_Course_Teaching.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2020-12-16T23:50:43",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Endowment Fund Voucher, Fall - 2020"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, December 16, 2020"
+    },
+    "\n\nStudents are informed that the University has issued Endowment Fund voucher to newly admitted students of Fall, 2020 semester, amounting to Rs. 1,000/- for local students and $10 for overseas students with due date January 20, 2021.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4371"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2020-12-17T19:25:57",
+   "edited": "2020-12-17T19:26:31",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Ass_2(CS712).docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS712: Distributed DBMS"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Assignment 3\n"
+    },
+    "Due Date: Dec 21, 2020\nMarks: 50"
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2020-12-17T19:26:07",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 88,
+   "file": "files/Ass_2(CS712) (1).docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2020-12-17T19:26:17",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 88,
+   "file": "files/SurveyofDataClusteringMethods.pdf",
+   "thumbnail": "files/SurveyofDataClusteringMethods.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2020-12-17T21:04:06",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Assignment No. 3_706_20.pdf",
+   "thumbnail": "files/Assignment No. 3_706_20.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Assignment 3"
+    },
+    "\nDue Date: 2020-12-22\nMarks: 50"
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2020-12-17T21:04:18",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 91,
+   "file": "files/Assignment No. 3_706_20.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2020-12-17T21:04:27",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 91,
+   "file": "files/A_Comparative_Study_of_Requirements_Engineering_Process_Model.pdf",
+   "thumbnail": "files/A_Comparative_Study_of_Requirements_Engineering_Process_Model.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2020-12-17T23:37:01",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 91,
+   "text": "CS706 has allowed\"two days\" extension."
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2020-12-21T18:20:21",
+   "edited": "2020-12-30T00:52:39",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_14@21-12-2020_18-20-21.jpg",
+   "width": 1280,
+   "height": 1146,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 – Mid Terms"
+    },
+    "\nMarks: 50\nDate: 2020-12-28\nDue Date: 2020-12-28 + 1 extended day\n\nYou shall not request for extension. Don't expect any extension or reschedule.\n\n",
+    {
+     "type": "bold",
+     "text": "Question Paper"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/107"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/108"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Proposal to solve Q4"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5288"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2020-12-21T19:38:09",
+   "edited": "2021-01-01T21:38:25",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_15@21-12-2020_19-38-09.jpg",
+   "width": 1280,
+   "height": 1192,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Mid Terms"
+    },
+    "\nMarks: 50\nDate: 2020-12-31\n\n",
+    {
+     "type": "bold",
+     "text": "Question Paper"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/110"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/111"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Answers"
+    },
+    "\nQ1\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5621"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5622"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5643"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5664"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5691"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5700"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5785"
+    },
+    "\n\nQ2\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5902"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5905"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5920"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5945"
+    },
+    "\n\n\nQ3\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5677"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5808"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5833"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5839"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5843"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5872"
+    },
+    "\n\nQ4\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5505"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5700"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5741"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5789"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/5889"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2020-12-22T11:24:38",
+   "edited": "2021-01-06T22:49:28",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_16@22-12-2020_11-24-38.jpg",
+   "width": 1280,
+   "height": 1161,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Mid Terms"
+    },
+    "\nMarks: 50\nDate: 2020-01-04\n\n",
+    {
+     "type": "bold",
+     "text": "Question Paper"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/115"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/116"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Answer"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/6381"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/6436"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/6453"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/6457"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/6485"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2020-12-22T21:19:51",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Blocking of VU-LMS Accounts"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, December 22, 2020"
+    },
+    "\n\nIt is informed that LMS Accounts of all such students who have not paid their outstanding dues shall be blocked on ",
+    {
+     "type": "bold",
+     "text": "December 24, 2020"
+    },
+    ". Students with blocked Accounts will not be able to appear in Exams and carry out academic activities. It is therefore advised to clear all outstanding dues at the earliest, in order to avoid any inconvenience.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4374"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2020-12-22T21:21:18",
+   "edited": "2020-12-22T21:22:37",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Screen Shot 2020-12-22 at 21.20.36.png",
+   "thumbnail": "files/Screen Shot 2020-12-22 at 21.20.36.png_thumb.jpg",
+   "mime_type": "image/png",
+   "width": 1980,
+   "height": 7909,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Fall 2020: Mid Term Quiz Schedule "
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, December 22, 2020"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4373"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2020-12-23T19:40:17",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Screen Shot 2020-12-23 at 19.38.26.png",
+   "thumbnail": "files/Screen Shot 2020-12-23 at 19.38.26.png_thumb.jpg",
+   "mime_type": "image/png",
+   "text": [
+    {
+     "type": "bold",
+     "text": "List of Merit Based Scholarship Fall, 2020"
+    },
+    " – Newly Admitted Students\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, December 23, 2020"
+    },
+    "\n\n\nThe Management Committee for Scholarships has finalized the students for Merit Scholarship (Newly Admitted Students) for Fall 2020. \n\nOnly those students are enlisted for scholarship who have obtained highest percentage marks in his/her previous degree. The students who have scored highest percentage marks and his/her name is mentioned in the above list and obtained percentage marks ranged as given in column (B) will be eligible for merit scholarship as mentioned in column (C).\n\nErrors and Omissions Excepted, within two weeks after publication of merit scholarship list. (Queries to be sent; if any at ",
+    {
+     "type": "email",
+     "text": "qamar.zaman@vu.edu.pk"
+    },
+    ")\nThe Students those having percentage marks’ range but not mentioned in list are not eligible for scholarship because only top students those having highest marks are considered for scholarship.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4375"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2020-12-24T13:18:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Annex-I-HEC-PhD-Policy-2020.pdf",
+   "thumbnail": "files/Annex-I-HEC-PhD-Policy-2020.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "THE HIGHER EDUCATION COMMISSION "
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "POLICY ON PHD DEGREE PROGRAMS"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "\n"
+    },
+    {
+     "type": "italic",
+     "text": "Effective January 1, 2021"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2020-12-25T15:27:52",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 47,
+   "file": "files/Fall 2020_CS701_1_SOL.pdf",
+   "thumbnail": "files/Fall 2020_CS701_1_SOL.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": "Official solution to CS701 Assignment 1"
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2020-12-25T22:11:50",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 81,
+   "file": "files/Fall 2020_CS701_2_SOL.pdf",
+   "thumbnail": "files/Fall 2020_CS701_2_SOL.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    "Official solution to ",
+    {
+     "type": "bold",
+     "text": "CS701 - Assignment 2"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2020-12-25T22:11:59",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 81,
+   "file": "files/Fall 2020_CS701_2_SOL.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2020-12-26T21:39:49",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS707_4.pdf",
+   "thumbnail": "files/Fall 2020_CS707_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS707 - Network Security"
+    },
+    "\nSpecial (Mid Terms) Assignmeent"
+   ]
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2020-12-28T10:41:32",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 96,
+   "file": "files/Fall 2020_CS701_3.doc",
+   "mime_type": "application/msword",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 – Mid Terms"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2020-12-28T10:41:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 96,
+   "file": "files/Fall 2020_CS701_3.pdf",
+   "thumbnail": "files/Fall 2020_CS701_3.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 – Mid Terms"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2020-12-30T00:44:56",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Scheduled Maintenance Activity on Quiz System"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, December 29, 2020"
+    },
+    "\n\nQuiz System of Virtual University of Pakistan \n",
+    {
+     "type": "bold",
+     "text": "will not be available from 6:00 AM to 8:00 AM on Wednesday, December 30, 2020"
+    },
+    "\ndue to some Scheduled Maintenance. \n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4377"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2020-12-31T00:14:17",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 97,
+   "file": "files/Fall 2020_CS702_3.pdf",
+   "thumbnail": "files/Fall 2020_CS702_3.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Mid Terms"
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2020-12-31T00:14:30",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 97,
+   "file": "files/Fall 2020_CS702_3.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Mid Terms"
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2021-01-01T21:42:54",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Final Merit List for 11th Convocation (Fall 2018 & Spring 2019 Semesters) "
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, December 31, 2020 "
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=3197"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2021-01-02T00:09:39",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS712_4.pdf",
+   "thumbnail": "files/Fall 2020_CS712_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS712 - Distributed DBMS"
+    },
+    "\nMid Terms"
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2021-01-03T14:44:00",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Need Based Scholarship Award List for Fall, 2020"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, December 30, 2020 "
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4378"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2021-01-04T00:13:05",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 98,
+   "file": "files/Fall 2020_CS706_4.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Mid Terms"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2021-01-04T00:13:15",
+   "edited": "2021-01-04T00:13:22",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 98,
+   "file": "files/Fall 2020_CS706_4.pdf",
+   "thumbnail": "files/Fall 2020_CS706_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Mid Terms"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2021-01-04T16:31:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Cisco Certification from VU Cisco Netacad"
+    },
+    "\n\nVU Cisco Netacad is offering Entry & Associate Level online Certificates in the following areas:\n\n· Cyber Security Essentials (1 month) – Rs. 4,000\n· CyberOps Associate (2 months) – Rs. 6,000\n· CCNA v7 (4 months) – Rs. 8,000\n\nApply Now to avail 20% discount in the fee\n\nTo apply click the following link \n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/netacad/"
+    },
+    "\n\nFor any query write to us at ",
+    {
+     "type": "code",
+     "text": "netacadsupport@vu.edu.pk"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2021-01-04T20:08:55",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS724-Handouts.pdf",
+   "thumbnail": "files/CS724-Handouts.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS724 - Software Process Improvement"
+    },
+    "\nLecture Handouts"
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2021-01-06T00:26:53",
+   "edited": "2021-01-06T00:27:53",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Issuance of Tuition Fee Voucher (2nd Installment) "
+    },
+    "\nto Zero Semester Students\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, January 4, 2021 "
+    },
+    "\n\nUniversity has issued tuition fee voucher (2nd installment) for Fall, 2020 semester to enrolled ",
+    {
+     "type": "bold",
+     "text": "Zero Semester Students"
+    },
+    " with due date ",
+    {
+     "type": "bold",
+     "text": "January 18, 2021"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4379"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2021-01-07T19:46:40",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS710_4.pdf",
+   "thumbnail": "files/Fall 2020_CS710_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Mobile and Pervasive Computing – CS710"
+    },
+    "\nMid Terms"
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2021-01-07T19:46:53",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 120,
+   "file": "files/Fall 2020_CS710_4.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2021-01-12T21:31:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Blocking of VU-LMS Accounts"
+    },
+    "\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, January 12, 2021"
+    },
+    "\n\nIt is informed that LMS Accounts of all such students who have not paid their outstanding dues shall be blocked on ",
+    {
+     "type": "bold",
+     "text": "January 18, 2021"
+    },
+    ".\nStudents with blocked Accounts will not be able to carry out academic activities. It is therefore advised to clear all outstanding dues at the earliest, in order to avoid any inconvenience.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4380"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2021-01-12T21:32:20",
+   "edited": "2021-01-12T21:34:06",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 117,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Cisco Certification from VU Cisco Netacad"
+    },
+    "\n\nVU Cisco Netacad is offering Entry & Associate Level online Certificates in the following areas:\n\n· Cyber Security Essentials (1 month) – Rs. 4,000\n· CyberOps Associate (2 months) – Rs. 6,000\n· CCNA v7 (4 months) – Rs. 8,000\n\nApply Now to avail 20% discount in the fee\n\nTo apply click the following link \n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/netacad/"
+    },
+    "\n\nFor any query write to us at ",
+    {
+     "type": "code",
+     "text": "netacadsupport@vu.edu.pk"
+    },
+    "\n\n⚡ ",
+    {
+     "type": "bold",
+     "text": "Registration is Open till 20 January, 2021"
+    },
+    "\n⚡",
+    {
+     "type": "bold",
+     "text": "Session will start on 25 January, 2021"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2021-01-12T21:37:10",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "AI001 - Introduction to AI for IT and Non-IT Professionals "
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "Quiz No:1 Scheduled"
+    },
+    "\n\nQuiz will remain open for 2 days (48 hours only) from ",
+    {
+     "type": "bold",
+     "text": "January 19, 2021, to January 20, 2021"
+    },
+    ". \n\nQuiz 1 will cover course contents from ",
+    {
+     "type": "bold",
+     "text": "Topic no. 1 to 30"
+    },
+    " of your syllabus and it will be based on ",
+    {
+     "type": "bold",
+     "text": "15 multiple-choice questions"
+    },
+    " (MCQs). \n\nYou are advised to prepare for the quiz accordingly. \nIf any student fails to attempt the quiz in a given time, then no re-take will be allowed. So, be careful regarding the schedule."
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2021-01-15T22:45:02",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_17@15-01-2021_22-45-02.jpg",
+   "width": 1140,
+   "height": 859,
+   "text": [
+    {
+     "type": "bold",
+     "text": "VU Cisco NetAcad Certifications\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, January 14, 2021\n\n"
+    },
+    "VU Cisco NetAcad is offering Entry & Associate Level online Certifications in the following areas:\n\n· Cyber Security Essentials (1 month) – Rs. 4,000\n· CyberOps Associate (2 months) – Rs. 6,000\n· CCNA v7 (4 months) – Rs. 8,000\n\nApply Now to avail 20% discount in the fee:\n\n",
+    {
+     "type": "bold",
+     "text": "https://www.vu.edu.pk/netacad\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4381"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2021-01-18T13:35:39",
+   "edited": "2021-02-14T13:32:50",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/701 Viva Notes 0.pdf",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Viva Notes\n",
+    {
+     "type": "italic",
+     "text": "Samad Amin's contribution\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2021-01-18T13:35:44",
+   "edited": "2021-02-14T13:33:02",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/701 Viva Notes 1.pdf",
+   "thumbnail": "files/701 Viva Notes 1.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Viva Notes\n",
+    {
+     "type": "italic",
+     "text": "Samad Amin's contribution\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2021-01-19T20:15:01",
+   "edited": "2021-01-19T20:15:18",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Blocking of Students LMS Accounts\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, January 18, 2021\n\nThe"
+    },
+    " University has blocked LMS Accounts of all those students who have payable dues. Students with blocked accounts will not be able to carry out academic activities. It is therefore advised to clear outstanding dues at the earliest and get LMS accounts unblocked.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4387"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2021-01-21T19:00:01",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Recruitment Test Result.pdf",
+   "thumbnail": "files/Recruitment Test Result.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Recruitment Test Result\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, January 20, 2021\n\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4385"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2021-01-21T19:10:20",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_18@21-01-2021_19-10-20.jpg",
+   "width": 1090,
+   "height": 814,
+   "text": [
+    "Due to overwhelming response, VU Cisco Netacad has extended the deadline of Registrations till ",
+    {
+     "type": "bold",
+     "text": "31st January 2021"
+    },
+    ".\n\n So, hurry up and grab your seat to avail 20% discount.\n\nThe Entry & Associate Level online Certifications are as follows.\n· Cyber Security Essentials (1 month) – Rs. 4,000\n· CyberOps Associate (2 months) – Rs. 6,000\n· CCNA v7 (4 months) – Rs. 8,000\n\nRegistration will provide you another opportunity to gain a 58% discount on Industrial Exam Fee (for CCNA & CyberOps Associate courses) by scoring 70% or above marks in VU NetAcad online courses. \n\nFor registration, visit \n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/netacad"
+    },
+    "\n\nFor any query please write to us at ",
+    {
+     "type": "code",
+     "text": "netacadsupport@vu.edu.pk"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2021-01-21T20:13:46",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_19@21-01-2021_20-13-46.jpg",
+   "width": 720,
+   "height": 886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "HEC Policy on PhD Program"
+    },
+    " \nNotification\n",
+    {
+     "type": "italic",
+     "text": "Dated: 2021-01-19"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2021-01-21T20:14:24",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/HEC-PhD-Policy.pdf",
+   "thumbnail": "files/HEC-PhD-Policy.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": "HEC Policy on PhD Programs"
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2021-01-22T15:45:34",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_20@22-01-2021_15-45-34.jpg",
+   "width": 972,
+   "height": 248,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance\n"
+    },
+    "Skype Sessions"
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2021-01-25T18:29:35",
+   "edited": "2021-01-25T18:30:28",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_21@25-01-2021_18-29-35.jpg",
+   "width": 904,
+   "height": 1280,
+   "text": [
+    "The Department of Mass Communication Virtual University of Pakistan has organized a webinar \n",
+    {
+     "type": "bold",
+     "text": "Islamophobia and Western Media"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "January 28, 2021"
+    },
+    ".\n\n",
+    {
+     "type": "italic",
+     "text": "Published On:  Monday, January 25, 2021\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "All participants will get e-certificate\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4391"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2021-01-25T21:45:11",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\nQuiz 1"
+    },
+    " Result has been announced"
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2021-01-28T12:20:30",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\nQuiz No:2 Scheduled\n\nQuiz"
+    },
+    " 2 will remain open for 2 days (48 hours only) from \n",
+    {
+     "type": "bold",
+     "text": "🗓 February 3, 2021, to February 4, 2021"
+    },
+    ".\n\nQuiz 2 will cover course contents from Topic no. ",
+    {
+     "type": "bold",
+     "text": "31 to 56"
+    },
+    " of syllabus and it will be based on \n15 multiple-choice questions (MCQs)."
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2021-01-28T12:27:43",
+   "edited": "2021-01-28T12:27:56",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "photo": "photos/photo_22@28-01-2021_12-27-43.jpg",
+   "width": 912,
+   "height": 905,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Imagine Cup Organized By HEC Soft\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, January 28, 2021\n\n"
+    },
+    "Imagine Cup is world’s leading premier competition organized by Higher Education Commission & Microsoft for HEIs in Pakistan. \nEach year, a team is chosen from Pakistan that competes against the best from around the world, to get a chance to win ",
+    {
+     "type": "bold",
+     "text": "USD75,000"
+    },
+    ".\n\nThis year, Imagine Cup is live again and we encourage you to visit this link \n",
+    {
+     "type": "link",
+     "text": "https://imaginecup.com/pakistan"
+    },
+    " and register yourself.\n\nThe submissions are open till ",
+    {
+     "type": "bold",
+     "text": "31st January 2021"
+    },
+    ".\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4392"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2021-01-29T11:43:02",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "HEC advises universities to conduct exams based on their capacity and need for fair assessment\n"
+    },
+    {
+     "type": "italic",
+     "text": "Islamabad, January 27, 2021\n\nThe"
+    },
+    " Higher Education Commission (HEC) has taken note of the ",
+    {
+     "type": "bold",
+     "text": "concerns raised by students of some universities that their examinations should be conducted online"
+    },
+    ". The apprehensions of students were reviewed carefully in consultation with the Vice Chancellors of all the provinces and regions, keeping in view the difficulties brought about by the pandemic and opening of universities from February 01, 2021.\n\nHEC Guidance on Assessment and Examinations is available at the link ",
+    {
+     "type": "link",
+     "text": "https://www.hec.gov.pk/english/HECAnnouncements/Documents/nCoVirus/Assessments-Examinations.pdf"
+    },
+    ". \n\nIn this policy, HEC already allowed universities to use their ",
+    {
+     "type": "bold",
+     "text": "discretion"
+    },
+    " to conduct exams, either on-campus or online as long as the chosen mode provides a fair assessment of students' performance. Universities should take stock of their \"exam readiness\", i.e., technological readiness, managerial capacity, and the announced policy, and choose the best possible mode of assessment. \n\nOnline exams either can be used if the universities administer 'Open Book Exams' or establish an invigilation system in a supervised environment. In this mode, universities will also have to use Turnitin to check similarity index with Web and the answers of other students. Further, viva/oral exam may be integrated in the assessment where necessary.\n\nOn-campus exams can be used only under strict compliance with all Covid-19 health and safety protocols. Universities may also have to organize make-up classes for two weeks in case students consider the course coverage to be deficient. Assessment of all courses requiring psychomotor skills, such as medicine, engineering, subjects involving lab/studio work must be held on campus.\n\nAll students in a single course will be examined in the same mode i.e., either on-line or on-campus.\n\n",
+    {
+     "type": "link",
+     "text": "https://hec.gov.pk/english/news/news/Pages/Fair-Assessment.aspx"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2021-01-29T11:43:28",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 138,
+   "file": "files/Assessments-Examinations.pdf",
+   "thumbnail": "files/Assessments-Examinations.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2021-01-29T18:35:22",
+   "edited": "2021-02-11T13:29:19",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS702_4.pdf",
+   "thumbnail": "files/Fall 2020_CS702_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Assignment 3\nDue Date: 2021-02-04\n\n",
+    {
+     "type": "bold",
+     "text": "Answers\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7734"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7738"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7739"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7741"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7742"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7746"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/7748"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8048"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8049"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8184"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8196"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8275"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8477"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8458"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8477"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8479"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8480"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8483"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8526"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2021-01-29T22:30:52",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 68,
+   "file": "files/conference-template-a4.docx",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": "Template for CS706 research paper assignment"
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2021-02-01T16:33:38",
+   "edited": "2021-02-11T13:34:51",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Fall 2020_CS701_4.pdf",
+   "thumbnail": "files/Fall 2020_CS701_4.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Assignment 3\nDue Date: 2021-02-06\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    },
+    "\n\nAnswers and hints\n\nQ1\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8528"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8535"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8696"
+    },
+    "\n\nQ2\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9173"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8682"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8738"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8740"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8765"
+    },
+    " (incomplete)\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8766"
+    },
+    " (incomplete)\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8769"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8772"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8779"
+    },
+    " (audio)\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8793"
+    },
+    " (matrix)\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8794"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8809"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8810"
+    },
+    "\n\nQ3\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8536"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8537"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8603"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8797"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8708"
+    },
+    " (audio)"
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2021-02-01T16:34:55",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "VU LMS - New Feature\n"
+    },
+    "Virtual University has introduced an Activity Calendar to the LMS.\n\n",
+    {
+     "type": "link",
+     "text": "https://vulms.vu.edu.pk/ActivityCalendar/ActivityCalendar.aspx"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2021-02-02T12:08:00",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Campuses Opening Notification\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, February 2, 2021\n\n"
+    },
+    "Virtual University Campuses are opening from Tuesday, ",
+    {
+     "type": "bold",
+     "text": "February 02, 2021"
+    },
+    ", as per the following details:\n\n1. Campuses will be operated five days a week (Monday to Friday) from 9:00AM to 5:00PM.\n2. Visiting students shall be restricted to maximum 50% capacity and adhering to all Covid-19 SOPs.\n3. Government precautionary measures against COVID-19 to ensure safety & security of yourself, your family members, and colleagues shall be followed in true letter & spirit.\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4393"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2021-02-02T18:48:20",
+   "edited": "2021-02-15T15:28:30",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Presentation Guidelines.pdf",
+   "thumbnail": "files/Presentation Guidelines.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Research Paper Presentation\n"
+    },
+    "Due Date: Feb 9, 20201\nMarks: 50\n\nTips for Recording Videos:\n",
+    {
+     "type": "link",
+     "text": "http://vulms.vu.edu.pk/Courses/CS701/Downloads/Tips%20for%20Recording%20Videos.mp4"
+    },
+    "\n\nVideo Compression:\n",
+    {
+     "type": "link",
+     "text": "http://vulms.vu.edu.pk/Courses/CS701/Downloads/Video%20Compression.mp4"
+    },
+    "\n\nWhat's required?\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9099"
+    },
+    "\n\nHow to\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8958"
+    },
+    "\n\nVideo length\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8987"
+    },
+    "\n\nVideo size\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9060"
+    },
+    "\n\nGrace period \n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8870"
+    },
+    "\n\n\nDisplaying Presentation in the video\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8912"
+    },
+    "\n\nConversion Software \n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8970"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9016"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9020"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9051"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9053"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9083"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9088"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9106"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9139"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9724"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS706"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS710"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS712"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2021-02-02T18:50:58",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 145,
+   "file": "video_files/Video Compression.mp4",
+   "thumbnail": "video_files/Video Compression.mp4_thumb.jpg",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 267,
+   "width": 852,
+   "height": 480,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Research Paper Presentation\n"
+    },
+    "Due Date: Feb 9, 20201\n\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS706"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS710"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#CS712"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2021-02-02T18:50:58",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 145,
+   "file": "video_files/Tips for Recording Videos.mp4",
+   "thumbnail": "video_files/Tips for Recording Videos.mp4_thumb.jpg",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 129,
+   "width": 1278,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2021-02-02T21:29:32",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "forwarded_from": "Farwa Nadeem",
+   "text": "وی یو  امتحان کی  ڈیٹ شیٹ بناتے وقت  کچھ باتیں جو شائد آپ لوگوں کے کام آئیں.\n\n1- ڈیٹ شیٹ کی سیٹنگ  (First come First Serve)  کی بنیاد پر ھوتی ھے اس لیۓ ڈیٹ شیٹ بنانے میں دیر نہ کرینا...\n\n2- پہلے 3 سے 4 پیپر وہ رکھیں جو آپکو زیادہ مشکل لگتے ھوں تاکہ ڈیٹ شیٹ بنانے کے بعد والے 20 سے 25 دنوں ان پیپرز کو تیار کرنے کا زیادہ ٹائم مل جاۓ...\n\n3- جس پیپر میں چھٹی نہیں رکھنی أسے 2nd  ٹائم یعنی 3 بجے کے بعد رکھیں تاکہ تیاری کے لیۓ زیادہ سے زیادہ ٹائم مل سکے...\n\n4-اپنی ڈیٹ شیٹ اپنے حساب سے سیٹ کریں دوسرں کے حساب سے نہیں  کیونکہ پیپر آپنے دینا ھے تیاری آپنے کرنی ھے...\n\n5- جو کتاب آپکو آسان لگتی ھو یا تیاری اچھی ھو أس کے پیپر میں چھٹی نہ رکھیں یہ چھٹی کسی اور پیپر میں ایڈ جسٹ کر لیں...\n\n6- ڈیٹ شیٹ بنا لینے کے بعد والے دن ضائع نہ کریں جو کتاب مشکل لگتی ھوں  دن  Divide کر لیں جیسے 4 دن 1 کتاب اگلے 4 دن دوسری کتاب  وغیرہ...\n\n7- ایک پیپر پروگرامنگ (کوڈنگ) کا رکھنے کے بعد اگلا  پیپر تھوڑا  الگ رکھیں  تا کہ  دماغ  بور  نہ ھو تیاری کرتے ھوۓ...\n\n8- جابز  والے لوگ ڈیٹ شیٹ بنا لینے کے بعد  ویڈیو لیکچرز اپنے موبائل میں محفوظ کر لیں جیسے جیسے ٹائم ملے لیکچرز دیکھتے رہیں...\n\n9- سب سٹوڈنٹ جب ڈیٹ شیٹ بنا چکے ھوں تو ( Horror Movies)  سمجھ کر  لیکچرز   اور  ساتھ ساتھ  ( وصی شاہ)  کی شاعری  سمجھ کر  بیچارے  (HandOuts)  پر بھی نظر مارنا  شروع کر دینا...\n\n10- ڈیٹ شیٹ بن جانے کے بعد والے دن بہت جلدی جلدی گزرتے ھیں اس لیۓ سنجیدہ ھو جانا سب...\n\n اور مجھے دعاؤں میں یاد رکھئے گا"
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2021-02-03T14:56:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Fall 2020 Final Term Examinations: Make Your Date Sheet Now!\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, February 3, 2021\n\n"
+    },
+    {
+     "type": "link",
+     "text": "http://datesheet.vu.edu.pk/"
+    },
+    "\nWednesday, February 10, 2021\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4394"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2021-02-03T15:04:32",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 149,
+   "photo": "photos/photo_23@03-02-2021_15-04-32.jpg",
+   "width": 396,
+   "height": 304,
+   "text": "Available time slots"
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2021-02-03T15:06:50",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "reply_to_message_id": 149,
+   "photo": "photos/photo_24@03-02-2021_15-06-50.jpg",
+   "width": 205,
+   "height": 261,
+   "text": "Available dates"
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2021-02-05T21:31:29",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Guidelines for Overseas Students For Fall 2020 Final Term Examination\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Friday, February 5, 2021\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "OVERSEAS EXAMINATION RULES\n\n"
+    },
+    "As an overseas student You must adhere to \"Code of Conduct Outside of Pakistan\" from the following link:\n\n",
+    {
+     "type": "link",
+     "text": "http://handbook.vu.edu.pk/HandBook_Pages/ExaminationsOutsidePakistan.htm"
+    },
+    "\n\nOverseas Exam Software and related materials have been made available for download. Please make sure to install latest exam application available on the link given below. You must follow the sequence of instructions given below for smooth and error free installation:\n\n",
+    {
+     "type": "bold",
+     "text": "INSTRUCTIONS\n\n"
+    },
+    "1. Download and install VUTES exam software from following link ",
+    {
+     "type": "link",
+     "text": "http://qb.vu.edu.pk"
+    },
+    ".\n2. Download and install only TeamViewer on workstation from following link: ",
+    {
+     "type": "link",
+     "text": "http://qb.vu.edu.pk"
+    },
+    ".\nNote: Install the TeamViewer software for Personal/Non-Commercial use.\n3. Uninstall antivirus applications and disable windows firewall before the start of paper.\n4. System default language MUST be English (United States). It can be set from Control Panel -> Region and Language -> Format\n5. No proxy software/remote control software (except TeamViewer) should be installed or configured on the machine (like ultra-surf, hotspot shield, LogMeIn etc.).\n6. Disable Internet Explorer Proxy settings. It can be disabled from Internet Options -> Connections -> LAN Settings and uncheck proxy server settings.\n7. Do not configure external webcam to any other application (like MSN, Yahoo, Skype etc.); otherwise exam application will not detect the external webcam.\n8. After installation, you must go through the “User Manual” for Know-How to attempt your paper.\n9. An icon will be visible on your desktop after installation of VUTES exam application. Please double click the icon to run the demo test.\n \n\n",
+    {
+     "type": "bold",
+     "text": "DEMO TEST\n\n"
+    },
+    "You may test your installation by joining any of the following sessions till February 25, 2021 during the specified session timings as mentioned below:\n \n",
+    {
+     "type": "pre",
+     "text": "Session 1:      07:30 A.M to 09:00 A.M (PST)\nSession 2:      09:30 A.M to 11:00 A.M (PST)\nSession 3:      11:30 A.M to 01:00 P.M (PST)\nSession 4:      02:30 P.M to 04:00 P.M (PST)\nSession 5:      04:30 P.M to 06:00 P.M (PST)\nSession 6:      06:30 P.M to 08:00 P.M (PST)\n",
+     "language": ""
+    },
+    " \nPlease use your student ID as login and password for login into the exam application to check demo test. For example,\n \n",
+    {
+     "type": "pre",
+     "text": "Student ID: BC19020XXXX (Your student ID)\nPassword: BC19020XXXX (Your student ID)\n",
+     "language": ""
+    },
+    " \nAfter completing the demo test, you must confirm your installation status by clicking the link “Click here to confirm your installation status” given on ",
+    {
+     "type": "link",
+     "text": "http://qb.vu.edu.pk"
+    },
+    "\n \nNote: There are no invigilators present during the demo sessions, so no need to reply the messages during demo. You can send us your feedback at ",
+    {
+     "type": "code",
+     "text": "overseasexams@vu.edu.pk"
+    },
+    " or you may also contact “",
+    {
+     "type": "code",
+     "text": "Overseasexams"
+    },
+    "” at Skype or through Whatsapp \"",
+    {
+     "type": "code",
+     "text": "+92-3000656908"
+    },
+    "\"during demo sessions for support.\n\nUAN: +9242111880880 Ext: 352\nDirect: ",
+    {
+     "type": "phone",
+     "text": "+92-42-99204760"
+    },
+    ", ",
+    {
+     "type": "phone",
+     "text": "+92-42-99203899"
+    },
+    "\nMobile/WhatsApp: ",
+    {
+     "type": "phone",
+     "text": "+92-3000656908"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4395"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2021-02-06T12:28:09",
+   "edited": "2021-02-09T09:24:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 Video Presentation Assignment \n"
+    },
+    "Due Date: 2021-02-13\n\nYou can select any topic from the list for Presentation.\n\n1.   Do running time of Algorithm effects its efficiency?\n2.   Fundamental Data Structures Used in Algorithms.\n3.   Sorting Algorithms and their efficiency, considering time complexity.\n4.   Searching Algorithms and their efficiency, considering time complexity.\n5.   Graph Representation VS Tree Representation\n\nSee these messages for submission format and guidelines.\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/145"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/146"
+    },
+    "\n\n—- \nDue date changed from 2021-02-11 to 2021-02-13\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2021-02-07T20:25:07",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\n"
+    },
+    "Quiz 2 result has been declared"
+   ]
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2021-02-09T09:37:21",
+   "edited": "2021-02-12T12:39:34",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/Video Presentation Guidelines.pdf",
+   "thumbnail": "files/Video Presentation Guidelines.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 Video Presentation Assignment \n"
+    },
+    "Due Date: 2021-02-13\n\n",
+    {
+     "type": "bold",
+     "text": "Topic\n"
+    },
+    "Present an NP-Complete problem which is not already discussed in the video lectures.\n\nSee these messages for submission format and guidelines.\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/145"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vuopak/146"
+    },
+    "\n\n\nPossible Topics\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8907"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/9218"
+    },
+    "\n\nTopics you cannot choose\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8909"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8910"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8929"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/vupkmscs2020/8930"
+    },
+    "\n\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2021-02-10T09:58:05",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Unblocking Of VU-LMS Accounts\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Tuesday, February 9, 2021\n\n"
+    },
+    "The University has unblocked LMS Accounts of the students in order to facilitate them in making date sheet for Fall'2020 (Final-Term) Exams and carry out other academic activities. However, It is advised to ",
+    {
+     "type": "bold",
+     "text": "clear outstanding dues at the earliest"
+    },
+    " to avoid blocking after the examination. \n\nStudents with blocked accounts will not be able to view Final-term result for Fall'2020 semester and make course selection for Spring'2021 semester.\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4396"
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2021-02-11T00:25:37",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "video_files/Inside_the_mind_of_a_master_procrastinator_Tim_Urban_arj7oStGLkU.mp4",
+   "thumbnail": "video_files/Inside_the_mind_of_a_master_procrastinator_Tim_Urban_arj7oStGLkU.mp4_thumb.jpg",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 843,
+   "width": 1280,
+   "height": 720,
+   "text": "Inside the mind of a master procrastinator\nTim Urban - Ted Talk\n\nThis video is posted on this channel to help students understand why they keep postponing their assignments and exam preparations till the last moment."
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2021-02-12T12:06:44",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS706-Viva Schedule.pdf",
+   "thumbnail": "files/CS706-Viva Schedule.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance\n"
+    },
+    "Viva\n\nIt has ",
+    {
+     "type": "bold",
+     "text": "5% marks"
+    },
+    " in the overall weightage. \nThe syllabus for the viva is ",
+    {
+     "type": "bold",
+     "text": "first 35 lectures"
+    },
+    " of the course.\n\n1. Viva will be conducted through Skype\n2. Update your Skype account title by mentioning student ID with it\n3. Send Skype add contact request, at Skype ID mentioned in the schedule against your student ID, well before the scheduled date\n4. When time slot of a student starts, he is required to send a message on SkypeID (mentioned in the schedule against his/her ID) \n5. The message should be like ",
+    {
+     "type": "italic",
+     "text": "\"My VU ID is ms150409582. I am here for the viva of course CS706\"\n"
+    },
+    "6. Then the student will wait for his turn\n7. Instructor will make Skype Call to conduct the viva\n\n\nAttached is the complete schedule CS706 Viva.\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS706"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2021-02-12T20:17:27",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS702-Viva Schedule.pdf",
+   "thumbnail": "files/CS702-Viva Schedule.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Viva\n\nIt has ",
+    {
+     "type": "bold",
+     "text": "5% marks"
+    },
+    " in the overall weightage. \nThe syllabus for the viva is ",
+    {
+     "type": "bold",
+     "text": "first 35 lectures"
+    },
+    " of the course.\n\n1. Viva will be conducted through Skype\n2. Update your Skype account title by mentioning student ID with it\n3. Send Skype add contact request, at Skype ID mentioned in the schedule against your student ID, well before the scheduled date\n4. When time slot of a student starts, he is required to send a message on SkypeID (mentioned in the schedule against his/her ID) \n5. The message should be like ",
+    {
+     "type": "italic",
+     "text": "\"My VU ID is ms150409582. I am here for the viva of course CS706\"\n"
+    },
+    "6. Then the student will wait for his turn\n7. Instructor will make Skype Call to conduct the viva\n\n\nAttached is the complete schedule CS702 Viva.\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2021-02-12T20:29:47",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS701-Viva Schedule.pdf",
+   "thumbnail": "files/CS701-Viva Schedule.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Viva\n\nIt has ",
+    {
+     "type": "bold",
+     "text": "5% marks"
+    },
+    " in the overall weightage. \nThe syllabus for the viva is ",
+    {
+     "type": "bold",
+     "text": "first 35 lectures"
+    },
+    " of the course.\n\n1. Viva will be conducted through Skype\n2. Update your Skype account title by mentioning student ID with it\n3. Send Skype add contact request, at Skype ID mentioned in the schedule against your student ID, well before the scheduled date\n4. When time slot of a student starts, he is required to send a message on SkypeID (mentioned in the schedule against his/her ID) \n5. The message should be like ",
+    {
+     "type": "italic",
+     "text": "\"My VU ID is ms150409582. I am here for the viva of course CS706\"\n"
+    },
+    "6. Then the student will wait for his turn\n7. Instructor will make Skype Call to conduct the viva\n\n\nAttached is the complete schedule CS701 Viva.\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2021-02-12T21:01:31",
+   "edited": "2021-02-12T21:01:57",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS712-Viva Schedule.pdf",
+   "thumbnail": "files/CS712-Viva Schedule.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS712 - Distributed DBMS\nViva\n\nIt"
+    },
+    " has ",
+    {
+     "type": "bold",
+     "text": "5% marks"
+    },
+    " in the overall weightage. \nThe syllabus for the viva is ",
+    {
+     "type": "bold",
+     "text": "first 35 lectures"
+    },
+    " of the course.\n\n1. Viva will be conducted through Skype\n2. Update your Skype account title by mentioning student ID with it\n3. Send Skype add contact request, at Skype ID mentioned in the schedule against your student ID, well before the scheduled date\n4. When time slot of a student starts, he is required to send a message on SkypeID (mentioned in the schedule against his/her ID) \n5. The message should be like ",
+    {
+     "type": "italic",
+     "text": "\"My VU ID is ms150409582. I am here for the viva of course CS706\"\n"
+    },
+    "6. Then the student will wait for his turn\n7. Instructor will make Skype Call to conduct the viva\n\n\nAttached is the complete schedule CS712 Viva.\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS712"
+    },
+    "\n\n-—\nThank you ",
+    {
+     "type": "mention",
+     "text": "@symrex"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2021-02-14T13:32:20",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Viva material\n\n—-\nThanks ",
+    {
+     "type": "mention",
+     "text": "@ghulamabbas"
+    },
+    " \n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2021-02-14T13:32:36",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/701 Viva Helping Material.pdf",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2021-02-14T13:32:36",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/701 viva preparation file...complete.pdf",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2021-02-14T13:32:36",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/701_viva_prepration_file.pdf",
+   "thumbnail": "files/701_viva_prepration_file.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2021-02-14T13:32:37",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS 701 VIVA QA.pdf",
+   "thumbnail": "files/CS 701 VIVA QA.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2021-02-14T13:32:37",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS701 viva.pdf",
+   "thumbnail": "files/CS701 viva.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2021-02-14T13:44:02",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS701 - Theory of Computation\n"
+    },
+    "Past Papers\n\nThanks ",
+    {
+     "type": "mention",
+     "text": "@ghulamabbas"
+    },
+    " \n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS701"
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2021-02-14T13:44:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/All in One - CS701 - Spring 2015 - Final Papers [Solutions].pdf",
+   "thumbnail": "files/All in One - CS701 - Spring 2015 - Final Papers [Solutions].pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2021-02-14T13:44:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS 701 final term (2).pdf",
+   "thumbnail": "files/CS 701 final term (2).pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2021-02-14T13:44:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS 701 Final Term.pdf",
+   "thumbnail": "files/CS 701 Final Term.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2021-02-14T13:44:23",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS 701 Mid Term.pdf",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2021-02-15T12:59:09",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/CS702_Advanced_Algorithms_Analysis_and_Design_Handouts_Without_Watermark.pdf",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Handouts without watermark\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2021-02-15T15:09:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/VIVACS702.pdf",
+   "thumbnail": "files/VIVACS702.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Viva notes\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2021-02-15T15:52:26",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+    },
+    "Short audio lectures\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS702"
+    },
+    "\n\n—-\nThanks to ",
+    {
+     "type": "mention",
+     "text": "@ghulamabbas"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/1.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 158,
+   "text": ""
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/2.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 141,
+   "text": ""
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/3.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 299,
+   "text": ""
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/4.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 203,
+   "text": ""
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/5.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 158,
+   "text": ""
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/6.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 17,
+   "text": ""
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/7.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 34,
+   "text": ""
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/8.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 34,
+   "text": ""
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/9.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 16,
+   "text": ""
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2021-02-15T15:53:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/10.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 272,
+   "text": ""
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2021-02-15T15:53:41",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/11.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 13,
+   "text": ""
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2021-02-15T15:53:41",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/12.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 73,
+   "text": ""
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2021-02-15T15:53:41",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/13.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 230,
+   "text": ""
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2021-02-15T15:53:41",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/14.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 177,
+   "text": ""
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2021-02-15T15:53:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/15.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 177,
+   "text": ""
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2021-02-15T15:53:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/16.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 203,
+   "text": ""
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2021-02-15T15:53:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/17.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 153,
+   "text": ""
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2021-02-15T15:53:42",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/18.mp3",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 37,
+   "text": ""
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2021-02-16T09:43:04",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/706-solved-viva.pdf",
+   "thumbnail": "files/706-solved-viva.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "CS706 - Software Quality Assurance\n"
+    },
+    "Viva Material\n\n",
+    {
+     "type": "hashtag",
+     "text": "#CS706"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2021-02-16T13:32:03",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "file": "files/List of Academic Programs with admission eligibility.pdf",
+   "thumbnail": "files/List of Academic Programs with admission eligibility.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Virtual University has announced admissions for Spring 2021\n\nStart"
+    },
+    " February 15, 2021\n",
+    {
+     "type": "bold",
+     "text": "Last Date"
+    },
+    "  March 25, 2021\n\n",
+    {
+     "type": "bold",
+     "text": "Commencement of Classes"
+    },
+    "  April 12, 2021\n\n",
+    {
+     "type": "link",
+     "text": "https://www.vu.edu.pk/Admissions/AdmissionProcedure.aspx"
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2021-02-19T11:02:09",
+   "edited": "2021-02-19T11:43:58",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Entrance Test For Existing Enrolled MS/M.Phil. Students\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Thursday, February 18, 2021\n\nAdmission"
+    },
+    " Entrance Test for existing/enrolled MS/M.Phil. students will be conducted on ",
+    {
+     "type": "bold",
+     "text": "Wednesday, February 24, 2021 at 11:00am PST.\n\n"
+    },
+    "Please note that this is last and final chance for appearance in the Entry Test failing which your admission will be cancelled and all submitted fee will be forfeited.\n\nPlease do not forget to take a printout of your Exam Entrance Slip which is sent on your VU email.\n\n",
+    {
+     "type": "pre",
+     "text": "Sr. No.   Student ID  Degree Program \n1  ms160400240  MS in Computer Science\n2  ms150401200  M.Phil in Education\n3  ms160200024  MBA (Equiv. to MS)\n4  ms070400021  MS in Computer Science\n5  ms160401132  MS in Computer Science\n6  ms160400030  M.Phil in Education\n7  ms150400819  MS in Computer Science\n8  ms160200361  MBA (Equiv. to MS)\n9  ms160400763  MBA (Equiv. to MS)\n10  mb130400068  MBA (Equivalent to MS) / MS in Business Administration\n11  mb120400301  MBA (Equivalent to MS) / MS in Business Administration For VU MBA (2-Years, 72 Cr. Hrs)\n12  ms160402272  MS in Business Administration\n13  ms160402097  MS in Computer Science\n14  ms150400821  MS in Computer Science\n15  ms160400419  MBA (Equiv. to MS)\n16  ms150400918  MS in Computer Science\n17  mb130200084  MBA (Equivalent to MS) / MS in Business Administration\n18  ms160200016  MS in Biotechnology\n19  ms160200025  MS in Zoology\n\n",
+     "language": ""
+    },
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4398"
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2021-02-26T10:43:12",
+   "from": "Virtual University of Pakistan",
+   "from_id": 9999969886,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Enrollments Open For Introduction To Artificial Intelligence Short Course\n"
+    },
+    {
+     "type": "italic",
+     "text": "Published On:  Wednesday, February 24, 2021\n\n"
+    },
+    "The Virtual University of Pakistan has launched ",
+    {
+     "type": "bold",
+     "text": "the second batch"
+    },
+    " of Introduction to Artificial Intelligence for IT And Non-IT Professionals certification course.\n\n",
+    {
+     "type": "bold",
+     "text": "Benefits:\n"
+    },
+    "Completing this course will earn you\n1. A Course Participation Certificate \n2. A VU Course Completion Certificate *\n3. AI concept building with Real-life examples\n* Terms & Conditions Apply\n \n",
+    {
+     "type": "bold",
+     "text": "Registration Link: https://www.vu.edu.pk/pages/intro_AI.aspx\n"
+    },
+    " \nBatch Duration: 6 Weeks\nVideos Duration: 14 hours\nFee: Free of Cost\nWho can Join: Intermediate ",
+    {
+     "type": "bot_command",
+     "text": "/Equivalent"
+    },
+    "\n \nFor more information, please email at ",
+    {
+     "type": "email",
+     "text": "ai001@vu.edu.pk"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4400"
+    }
+   ]
+  }
+ ]
+}

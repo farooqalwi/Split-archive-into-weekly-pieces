@@ -1,0 +1,227 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 80,
+      "type": "message",
+      "date": "2020-12-14T16:05:24",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Former Chairman"
+        },
+        " of Virtual University Board of Governors passed away\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Monday, December 14, 2020"
+        },
+        "\n\u0627\u0650\u0646\u064e\u0651\u0627 \u0644\u0650\u0644\u0651\u0670\u06c1\u0650 \u0648\u064e\u0627\u0650\u0646\u064e\u0651\u0622 \u0627\u0650\u0644\u064e\u06cc\u0652\u06c1\u0650 \u0631\u064e\u0627\u062c\u0650\u0639\u064f\u0648\u0652\u0646\u064e\n\nMr. Maroof Afzal passed away due to Covid-19 on Thursday, December 10, 2020\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4370"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "type": "message",
+      "date": "2020-12-16T00:02:33",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS701_Assignment_No.2_Fall 2020.pdf",
+      "thumbnail": "files/CS701_Assignment_No.2_Fall 2020.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation"
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 2"
+        },
+        "\nDue Date: Dec 21, 2020\nMarks: 50"
+      ]
+    },
+    {
+      "id": 82,
+      "type": "message",
+      "date": "2020-12-16T00:02:47",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 81,
+      "file": "files/yongmingli2008.pdf",
+      "thumbnail": "files/yongmingli2008.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 83,
+      "type": "message",
+      "date": "2020-12-16T12:14:03",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Ass_2(CS702).pdf",
+      "thumbnail": "files/Ass_2(CS702).pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design\nAssignment 2"
+        },
+        "\nDue Date: Dec 21, 2020\nMarks: 50"
+      ]
+    },
+    {
+      "id": 85,
+      "type": "message",
+      "date": "2020-12-16T12:14:28",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 83,
+      "file": "files/Ass_2(CS702).docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 86,
+      "type": "message",
+      "date": "2020-12-16T12:14:39",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 83,
+      "file": "files/Research_and_Practice_on_Algorithm_Analysis_and_Design_Course_Teaching.pdf",
+      "thumbnail": "files/Research_and_Practice_on_Algorithm_Analysis_and_Design_Course_Teaching.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 87,
+      "type": "message",
+      "date": "2020-12-16T23:50:43",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Endowment Fund Voucher, Fall - 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, December 16, 2020"
+        },
+        "\n\nStudents are informed that the University has issued Endowment Fund voucher to newly admitted students of Fall, 2020 semester, amounting to Rs. 1,000/- for local students and $10 for overseas students with due date January 20, 2021.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4371"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "type": "message",
+      "date": "2020-12-17T19:25:57",
+      "edited": "2020-12-17T19:26:31",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Ass_2(CS712).docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS712: Distributed DBMS"
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 3\n"
+        },
+        "Due Date: Dec 21, 2020\nMarks: 50"
+      ]
+    },
+    {
+      "id": 89,
+      "type": "message",
+      "date": "2020-12-17T19:26:07",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 88,
+      "file": "files/Ass_2(CS712) (1).docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 90,
+      "type": "message",
+      "date": "2020-12-17T19:26:17",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 88,
+      "file": "files/SurveyofDataClusteringMethods.pdf",
+      "thumbnail": "files/SurveyofDataClusteringMethods.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 91,
+      "type": "message",
+      "date": "2020-12-17T21:04:06",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Assignment No. 3_706_20.pdf",
+      "thumbnail": "files/Assignment No. 3_706_20.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance"
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 3"
+        },
+        "\nDue Date: 2020-12-22\nMarks: 50"
+      ]
+    },
+    {
+      "id": 92,
+      "type": "message",
+      "date": "2020-12-17T21:04:18",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 91,
+      "file": "files/Assignment No. 3_706_20.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 93,
+      "type": "message",
+      "date": "2020-12-17T21:04:27",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 91,
+      "file": "files/A_Comparative_Study_of_Requirements_Engineering_Process_Model.pdf",
+      "thumbnail": "files/A_Comparative_Study_of_Requirements_Engineering_Process_Model.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 94,
+      "type": "message",
+      "date": "2020-12-17T23:37:01",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 91,
+      "text": "CS706 has allowed\"two days\" extension."
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 136,
+      "type": "message",
+      "date": "2021-01-28T12:20:30",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\nQuiz No:2 Scheduled\n\nQuiz"
+        },
+        " 2 will remain open for 2 days (48 hours only) from \n",
+        {
+          "type": "bold",
+          "text": "\ud83d\uddd3 February 3, 2021, to February 4, 2021"
+        },
+        ".\n\nQuiz 2 will cover course contents from Topic no. ",
+        {
+          "type": "bold",
+          "text": "31 to 56"
+        },
+        " of syllabus and it will be based on \n15 multiple-choice questions (MCQs)."
+      ]
+    },
+    {
+      "id": 137,
+      "type": "message",
+      "date": "2021-01-28T12:27:43",
+      "edited": "2021-01-28T12:27:56",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_22@28-01-2021_12-27-43.jpg",
+      "width": 912,
+      "height": 905,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Imagine Cup Organized By HEC Soft\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, January 28, 2021\n\n"
+        },
+        "Imagine Cup is world\u2019s leading premier competition organized by Higher Education Commission & Microsoft for HEIs in Pakistan. \nEach year, a team is chosen from Pakistan that competes against the best from around the world, to get a chance to win ",
+        {
+          "type": "bold",
+          "text": "USD75,000"
+        },
+        ".\n\nThis year, Imagine Cup is live again and we encourage you to visit this link \n",
+        {
+          "type": "link",
+          "text": "https://imaginecup.com/pakistan"
+        },
+        " and register yourself.\n\nThe submissions are open till ",
+        {
+          "type": "bold",
+          "text": "31st January 2021"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4392"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "type": "message",
+      "date": "2021-01-29T11:43:02",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "HEC advises universities to conduct exams based on their capacity and need for fair assessment\n"
+        },
+        {
+          "type": "italic",
+          "text": "Islamabad, January 27, 2021\n\nThe"
+        },
+        " Higher Education Commission (HEC) has taken note of the ",
+        {
+          "type": "bold",
+          "text": "concerns raised by students of some universities that their examinations should be conducted online"
+        },
+        ". The apprehensions of students were reviewed carefully in consultation with the Vice Chancellors of all the provinces and regions, keeping in view the difficulties brought about by the pandemic and opening of universities from February 01, 2021.\n\nHEC Guidance on Assessment and Examinations is available at the link ",
+        {
+          "type": "link",
+          "text": "https://www.hec.gov.pk/english/HECAnnouncements/Documents/nCoVirus/Assessments-Examinations.pdf"
+        },
+        ". \n\nIn this policy, HEC already allowed universities to use their ",
+        {
+          "type": "bold",
+          "text": "discretion"
+        },
+        " to conduct exams, either on-campus or online as long as the chosen mode provides a fair assessment of students' performance. Universities should take stock of their \"exam readiness\", i.e., technological readiness, managerial capacity, and the announced policy, and choose the best possible mode of assessment. \n\nOnline exams either can be used if the universities administer 'Open Book Exams' or establish an invigilation system in a supervised environment. In this mode, universities will also have to use Turnitin to check similarity index with Web and the answers of other students. Further, viva/oral exam may be integrated in the assessment where necessary.\n\nOn-campus exams can be used only under strict compliance with all Covid-19 health and safety protocols. Universities may also have to organize make-up classes for two weeks in case students consider the course coverage to be deficient. Assessment of all courses requiring psychomotor skills, such as medicine, engineering, subjects involving lab/studio work must be held on campus.\n\nAll students in a single course will be examined in the same mode i.e., either on-line or on-campus.\n\n",
+        {
+          "type": "link",
+          "text": "https://hec.gov.pk/english/news/news/Pages/Fair-Assessment.aspx"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "type": "message",
+      "date": "2021-01-29T11:43:28",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 138,
+      "file": "files/Assessments-Examinations.pdf",
+      "thumbnail": "files/Assessments-Examinations.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 140,
+      "type": "message",
+      "date": "2021-01-29T18:35:22",
+      "edited": "2021-02-11T13:29:19",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS702_4.pdf",
+      "thumbnail": "files/Fall 2020_CS702_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+        },
+        "Assignment 3\nDue Date: 2021-02-04\n\n",
+        {
+          "type": "bold",
+          "text": "Answers\n"
+        },
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7734"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7738"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7739"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7741"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7742"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7746"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/7748"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8048"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8049"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8184"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8196"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8275"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8477"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8458"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8477"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8479"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8480"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8483"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8526"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "type": "message",
+      "date": "2021-01-29T22:30:52",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 68,
+      "file": "files/conference-template-a4.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": "Template for CS706 research paper assignment"
+    },
+    {
+      "id": 142,
+      "type": "message",
+      "date": "2021-02-01T16:33:38",
+      "edited": "2021-02-11T13:34:51",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS701_4.pdf",
+      "thumbnail": "files/Fall 2020_CS701_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation\n"
+        },
+        "Assignment 3\nDue Date: 2021-02-06\n\n",
+        {
+          "type": "hashtag",
+          "text": "#CS701"
+        },
+        "\n\nAnswers and hints\n\nQ1\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8528"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8535"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8696"
+        },
+        "\n\nQ2\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9173"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8682"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8738"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8740"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8765"
+        },
+        " (incomplete)\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8766"
+        },
+        " (incomplete)\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8769"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8772"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8779"
+        },
+        " (audio)\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8793"
+        },
+        " (matrix)\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8794"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8809"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8810"
+        },
+        "\n\nQ3\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8536"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8537"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8603"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8797"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8708"
+        },
+        " (audio)"
+      ]
+    },
+    {
+      "id": 143,
+      "type": "message",
+      "date": "2021-02-01T16:34:55",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "VU LMS - New Feature\n"
+        },
+        "Virtual University has introduced an Activity Calendar to the LMS.\n\n",
+        {
+          "type": "link",
+          "text": "https://vulms.vu.edu.pk/ActivityCalendar/ActivityCalendar.aspx"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "type": "message",
+      "date": "2021-02-02T12:08:00",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Campuses Opening Notification\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Tuesday, February 2, 2021\n\n"
+        },
+        "Virtual University Campuses are opening from Tuesday, ",
+        {
+          "type": "bold",
+          "text": "February 02, 2021"
+        },
+        ", as per the following details:\n\n1. Campuses will be operated five days a week (Monday to Friday) from 9:00AM to 5:00PM.\n2. Visiting students shall be restricted to maximum 50% capacity and adhering to all Covid-19 SOPs.\n3. Government precautionary measures against COVID-19 to ensure safety & security of yourself, your family members, and colleagues shall be followed in true letter & spirit.\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4393"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "type": "message",
+      "date": "2021-02-02T18:48:20",
+      "edited": "2021-02-15T15:28:30",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Presentation Guidelines.pdf",
+      "thumbnail": "files/Presentation Guidelines.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "Research Paper Presentation\n"
+        },
+        "Due Date: Feb 9, 20201\nMarks: 50\n\nTips for Recording Videos:\n",
+        {
+          "type": "link",
+          "text": "http://vulms.vu.edu.pk/Courses/CS701/Downloads/Tips%20for%20Recording%20Videos.mp4"
+        },
+        "\n\nVideo Compression:\n",
+        {
+          "type": "link",
+          "text": "http://vulms.vu.edu.pk/Courses/CS701/Downloads/Video%20Compression.mp4"
+        },
+        "\n\nWhat's required?\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9099"
+        },
+        "\n\nHow to\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8958"
+        },
+        "\n\nVideo length\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8987"
+        },
+        "\n\nVideo size\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9060"
+        },
+        "\n\nGrace period \n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8870"
+        },
+        "\n\n\nDisplaying Presentation in the video\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8912"
+        },
+        "\n\nConversion Software \n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8970"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9016"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9020"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9051"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9053"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9083"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9088"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9106"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9139"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9724"
+        },
+        "\n\n",
+        {
+          "type": "hashtag",
+          "text": "#CS706"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS710"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS712"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS701"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS702"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "type": "message",
+      "date": "2021-02-02T18:50:58",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 145,
+      "file": "video_files/Video Compression.mp4",
+      "thumbnail": "video_files/Video Compression.mp4_thumb.jpg",
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 267,
+      "width": 852,
+      "height": 480,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Research Paper Presentation\n"
+        },
+        "Due Date: Feb 9, 20201\n\n\n",
+        {
+          "type": "hashtag",
+          "text": "#CS706"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS710"
+        },
+        " ",
+        {
+          "type": "hashtag",
+          "text": "#CS712"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "type": "message",
+      "date": "2021-02-02T18:50:58",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 145,
+      "file": "video_files/Tips for Recording Videos.mp4",
+      "thumbnail": "video_files/Tips for Recording Videos.mp4_thumb.jpg",
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 129,
+      "width": 1278,
+      "height": 720,
+      "text": ""
+    },
+    {
+      "id": 148,
+      "type": "message",
+      "date": "2021-02-02T21:29:32",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "forwarded_from": "Farwa Nadeem",
+      "text": "\u0648\u06cc \u06cc\u0648  \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u06cc  \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627\u062a\u06d2 \u0648\u0642\u062a  \u06a9\u0686\u06be \u0628\u0627\u062a\u06cc\u06ba \u062c\u0648 \u0634\u0627\u0626\u062f \u0622\u067e \u0644\u0648\u06af\u0648\u06ba \u06a9\u06d2 \u06a9\u0627\u0645 \u0622\u0626\u06cc\u06ba.\n\n1- \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u06a9\u06cc \u0633\u06cc\u0679\u0646\u06af  (First come First Serve)  \u06a9\u06cc \u0628\u0646\u06cc\u0627\u062f \u067e\u0631 \u06be\u0648\u062a\u06cc \u06be\u06d2 \u0627\u0633 \u0644\u06cc\u06d3 \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627\u0646\u06d2 \u0645\u06cc\u06ba \u062f\u06cc\u0631 \u0646\u06c1 \u06a9\u0631\u06cc\u0646\u0627...\n\n2- \u067e\u06c1\u0644\u06d2 3 \u0633\u06d2 4 \u067e\u06cc\u067e\u0631 \u0648\u06c1 \u0631\u06a9\u06be\u06cc\u06ba \u062c\u0648 \u0622\u067e\u06a9\u0648 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0634\u06a9\u0644 \u0644\u06af\u062a\u06d2 \u06be\u0648\u06ba \u062a\u0627\u06a9\u06c1 \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0648\u0627\u0644\u06d2 20 \u0633\u06d2 25 \u062f\u0646\u0648\u06ba \u0627\u0646 \u067e\u06cc\u067e\u0631\u0632 \u06a9\u0648 \u062a\u06cc\u0627\u0631 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u0632\u06cc\u0627\u062f\u06c1 \u0679\u0627\u0626\u0645 \u0645\u0644 \u062c\u0627\u06d3...\n\n3- \u062c\u0633 \u067e\u06cc\u067e\u0631 \u0645\u06cc\u06ba \u0686\u06be\u0679\u06cc \u0646\u06c1\u06cc\u06ba \u0631\u06a9\u06be\u0646\u06cc \u0623\u0633\u06d2 2nd  \u0679\u0627\u0626\u0645 \u06cc\u0639\u0646\u06cc 3 \u0628\u062c\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0631\u06a9\u06be\u06cc\u06ba \u062a\u0627\u06a9\u06c1 \u062a\u06cc\u0627\u0631\u06cc \u06a9\u06d2 \u0644\u06cc\u06d3 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0679\u0627\u0626\u0645 \u0645\u0644 \u0633\u06a9\u06d2...\n\n4-\u0627\u067e\u0646\u06cc \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0627\u067e\u0646\u06d2 \u062d\u0633\u0627\u0628 \u0633\u06d2 \u0633\u06cc\u0679 \u06a9\u0631\u06cc\u06ba \u062f\u0648\u0633\u0631\u06ba \u06a9\u06d2 \u062d\u0633\u0627\u0628 \u0633\u06d2 \u0646\u06c1\u06cc\u06ba  \u06a9\u06cc\u0648\u0646\u06a9\u06c1 \u067e\u06cc\u067e\u0631 \u0622\u067e\u0646\u06d2 \u062f\u06cc\u0646\u0627 \u06be\u06d2 \u062a\u06cc\u0627\u0631\u06cc \u0622\u067e\u0646\u06d2 \u06a9\u0631\u0646\u06cc \u06be\u06d2...\n\n5- \u062c\u0648 \u06a9\u062a\u0627\u0628 \u0622\u067e\u06a9\u0648 \u0622\u0633\u0627\u0646 \u0644\u06af\u062a\u06cc \u06be\u0648 \u06cc\u0627 \u062a\u06cc\u0627\u0631\u06cc \u0627\u0686\u06be\u06cc \u06be\u0648 \u0623\u0633 \u06a9\u06d2 \u067e\u06cc\u067e\u0631 \u0645\u06cc\u06ba \u0686\u06be\u0679\u06cc \u0646\u06c1 \u0631\u06a9\u06be\u06cc\u06ba \u06cc\u06c1 \u0686\u06be\u0679\u06cc \u06a9\u0633\u06cc \u0627\u0648\u0631 \u067e\u06cc\u067e\u0631 \u0645\u06cc\u06ba \u0627\u06cc\u0688 \u062c\u0633\u0679 \u06a9\u0631 \u0644\u06cc\u06ba...\n\n6- \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627 \u0644\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0648\u0627\u0644\u06d2 \u062f\u0646 \u0636\u0627\u0626\u0639 \u0646\u06c1 \u06a9\u0631\u06cc\u06ba \u062c\u0648 \u06a9\u062a\u0627\u0628 \u0645\u0634\u06a9\u0644 \u0644\u06af\u062a\u06cc \u06be\u0648\u06ba  \u062f\u0646  Divide \u06a9\u0631 \u0644\u06cc\u06ba \u062c\u06cc\u0633\u06d2 4 \u062f\u0646 1 \u06a9\u062a\u0627\u0628 \u0627\u06af\u0644\u06d2 4 \u062f\u0646 \u062f\u0648\u0633\u0631\u06cc \u06a9\u062a\u0627\u0628  \u0648\u063a\u06cc\u0631\u06c1...\n\n7- \u0627\u06cc\u06a9 \u067e\u06cc\u067e\u0631 \u067e\u0631\u0648\u06af\u0631\u0627\u0645\u0646\u06af (\u06a9\u0648\u0688\u0646\u06af) \u06a9\u0627 \u0631\u06a9\u06be\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0627\u06af\u0644\u0627  \u067e\u06cc\u067e\u0631 \u062a\u06be\u0648\u0691\u0627  \u0627\u0644\u06af \u0631\u06a9\u06be\u06cc\u06ba  \u062a\u0627 \u06a9\u06c1  \u062f\u0645\u0627\u063a  \u0628\u0648\u0631  \u0646\u06c1 \u06be\u0648 \u062a\u06cc\u0627\u0631\u06cc \u06a9\u0631\u062a\u06d2 \u06be\u0648\u06d3...\n\n8- \u062c\u0627\u0628\u0632  \u0648\u0627\u0644\u06d2 \u0644\u0648\u06af \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627 \u0644\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f  \u0648\u06cc\u0688\u06cc\u0648 \u0644\u06cc\u06a9\u0686\u0631\u0632 \u0627\u067e\u0646\u06d2 \u0645\u0648\u0628\u0627\u0626\u0644 \u0645\u06cc\u06ba \u0645\u062d\u0641\u0648\u0638 \u06a9\u0631 \u0644\u06cc\u06ba \u062c\u06cc\u0633\u06d2 \u062c\u06cc\u0633\u06d2 \u0679\u0627\u0626\u0645 \u0645\u0644\u06d2 \u0644\u06cc\u06a9\u0686\u0631\u0632 \u062f\u06cc\u06a9\u06be\u062a\u06d2 \u0631\u06c1\u06cc\u06ba...\n\n9- \u0633\u0628 \u0633\u0679\u0648\u0688\u0646\u0679 \u062c\u0628 \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646\u0627 \u0686\u06a9\u06d2 \u06be\u0648\u06ba \u062a\u0648 ( Horror Movies)  \u0633\u0645\u062c\u06be \u06a9\u0631  \u0644\u06cc\u06a9\u0686\u0631\u0632   \u0627\u0648\u0631  \u0633\u0627\u062a\u06be \u0633\u0627\u062a\u06be  ( \u0648\u0635\u06cc \u0634\u0627\u06c1)  \u06a9\u06cc \u0634\u0627\u0639\u0631\u06cc  \u0633\u0645\u062c\u06be \u06a9\u0631  \u0628\u06cc\u0686\u0627\u0631\u06d2  (HandOuts)  \u067e\u0631 \u0628\u06be\u06cc \u0646\u0638\u0631 \u0645\u0627\u0631\u0646\u0627  \u0634\u0631\u0648\u0639 \u06a9\u0631 \u062f\u06cc\u0646\u0627...\n\n10- \u0688\u06cc\u0679 \u0634\u06cc\u0679 \u0628\u0646 \u062c\u0627\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0648\u0627\u0644\u06d2 \u062f\u0646 \u0628\u06c1\u062a \u062c\u0644\u062f\u06cc \u062c\u0644\u062f\u06cc \u06af\u0632\u0631\u062a\u06d2 \u06be\u06cc\u06ba \u0627\u0633 \u0644\u06cc\u06d3 \u0633\u0646\u062c\u06cc\u062f\u06c1 \u06be\u0648 \u062c\u0627\u0646\u0627 \u0633\u0628...\n\n \u0627\u0648\u0631 \u0645\u062c\u06be\u06d2 \u062f\u0639\u0627\u0624\u06ba \u0645\u06cc\u06ba \u06cc\u0627\u062f \u0631\u06a9\u06be\u0626\u06d2 \u06af\u0627"
+    },
+    {
+      "id": 149,
+      "type": "message",
+      "date": "2021-02-03T14:56:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Fall 2020 Final Term Examinations: Make Your Date Sheet Now!\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, February 3, 2021\n\n"
+        },
+        {
+          "type": "link",
+          "text": "http://datesheet.vu.edu.pk/"
+        },
+        "\nWednesday, February 10, 2021\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4394"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "type": "message",
+      "date": "2021-02-03T15:04:32",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 149,
+      "photo": "photos/photo_23@03-02-2021_15-04-32.jpg",
+      "width": 396,
+      "height": 304,
+      "text": "Available time slots"
+    },
+    {
+      "id": 151,
+      "type": "message",
+      "date": "2021-02-03T15:06:50",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 149,
+      "photo": "photos/photo_24@03-02-2021_15-06-50.jpg",
+      "width": 205,
+      "height": 261,
+      "text": "Available dates"
+    }
+  ]
+}

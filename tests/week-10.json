@@ -1,0 +1,144 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 115,
+      "type": "message",
+      "date": "2021-01-04T00:13:05",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 98,
+      "file": "files/Fall 2020_CS706_4.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Mid Terms"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "type": "message",
+      "date": "2021-01-04T00:13:15",
+      "edited": "2021-01-04T00:13:22",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 98,
+      "file": "files/Fall 2020_CS706_4.pdf",
+      "thumbnail": "files/Fall 2020_CS706_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Mid Terms"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "type": "message",
+      "date": "2021-01-04T16:31:42",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Cisco Certification from VU Cisco Netacad"
+        },
+        "\n\nVU Cisco Netacad is offering Entry & Associate Level online Certificates in the following areas:\n\n\u00b7 Cyber Security Essentials (1 month) \u2013 Rs. 4,000\n\u00b7 CyberOps Associate (2 months) \u2013 Rs. 6,000\n\u00b7 CCNA v7 (4 months) \u2013 Rs. 8,000\n\nApply Now to avail 20% discount in the fee\n\nTo apply click the following link \n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/netacad/"
+        },
+        "\n\nFor any query write to us at ",
+        {
+          "type": "code",
+          "text": "netacadsupport@vu.edu.pk"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "type": "message",
+      "date": "2021-01-04T20:08:55",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS724-Handouts.pdf",
+      "thumbnail": "files/CS724-Handouts.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS724 - Software Process Improvement"
+        },
+        "\nLecture Handouts"
+      ]
+    },
+    {
+      "id": 119,
+      "type": "message",
+      "date": "2021-01-06T00:26:53",
+      "edited": "2021-01-06T00:27:53",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of Tuition Fee Voucher (2nd Installment) "
+        },
+        "\nto Zero Semester Students\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Monday, January 4, 2021 "
+        },
+        "\n\nUniversity has issued tuition fee voucher (2nd installment) for Fall, 2020 semester to enrolled ",
+        {
+          "type": "bold",
+          "text": "Zero Semester Students"
+        },
+        " with due date ",
+        {
+          "type": "bold",
+          "text": "January 18, 2021"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4379"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "type": "message",
+      "date": "2021-01-07T19:46:40",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS710_4.pdf",
+      "thumbnail": "files/Fall 2020_CS710_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "Mobile and Pervasive Computing \u2013 CS710"
+        },
+        "\nMid Terms"
+      ]
+    },
+    {
+      "id": 121,
+      "type": "message",
+      "date": "2021-01-07T19:46:53",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 120,
+      "file": "files/Fall 2020_CS710_4.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    }
+  ]
+}

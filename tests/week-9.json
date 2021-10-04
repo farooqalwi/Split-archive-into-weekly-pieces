@@ -1,0 +1,168 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 107,
+      "type": "message",
+      "date": "2020-12-28T10:41:32",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 96,
+      "file": "files/Fall 2020_CS701_3.doc",
+      "mime_type": "application/msword",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 \u2013 Mid Terms"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "type": "message",
+      "date": "2020-12-28T10:41:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 96,
+      "file": "files/Fall 2020_CS701_3.pdf",
+      "thumbnail": "files/Fall 2020_CS701_3.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 \u2013 Mid Terms"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "type": "message",
+      "date": "2020-12-30T00:44:56",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Scheduled Maintenance Activity on Quiz System"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Tuesday, December 29, 2020"
+        },
+        "\n\nQuiz System of Virtual University of Pakistan \n",
+        {
+          "type": "bold",
+          "text": "will not be available from 6:00 AM to 8:00 AM on Wednesday, December 30, 2020"
+        },
+        "\ndue to some Scheduled Maintenance. \n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4377"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "type": "message",
+      "date": "2020-12-31T00:14:17",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 97,
+      "file": "files/Fall 2020_CS702_3.pdf",
+      "thumbnail": "files/Fall 2020_CS702_3.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+        },
+        "Mid Terms"
+      ]
+    },
+    {
+      "id": 111,
+      "type": "message",
+      "date": "2020-12-31T00:14:30",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 97,
+      "file": "files/Fall 2020_CS702_3.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+        },
+        "Mid Terms"
+      ]
+    },
+    {
+      "id": 112,
+      "type": "message",
+      "date": "2021-01-01T21:42:54",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Final Merit List for 11th Convocation (Fall 2018 & Spring 2019 Semesters) "
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, December 31, 2020 "
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=3197"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "type": "message",
+      "date": "2021-01-02T00:09:39",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS712_4.pdf",
+      "thumbnail": "files/Fall 2020_CS712_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS712 - Distributed DBMS"
+        },
+        "\nMid Terms"
+      ]
+    },
+    {
+      "id": 114,
+      "type": "message",
+      "date": "2021-01-03T14:44:00",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Need Based Scholarship Award List for Fall, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, December 30, 2020 "
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4378"
+        }
+      ]
+    }
+  ]
+}

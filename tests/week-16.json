@@ -1,0 +1,40 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 198,
+      "type": "message",
+      "date": "2021-02-19T11:02:09",
+      "edited": "2021-02-19T11:43:58",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Entrance Test For Existing Enrolled MS/M.Phil. Students\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, February 18, 2021\n\nAdmission"
+        },
+        " Entrance Test for existing/enrolled MS/M.Phil. students will be conducted on ",
+        {
+          "type": "bold",
+          "text": "Wednesday, February 24, 2021 at 11:00am PST.\n\n"
+        },
+        "Please note that this is last and final chance for appearance in the Entry Test failing which your admission will be cancelled and all submitted fee will be forfeited.\n\nPlease do not forget to take a printout of your Exam Entrance Slip which is sent on your VU email.\n\n",
+        {
+          "type": "pre",
+          "text": "Sr. No.   Student ID  Degree Program \n1  ms160400240  MS in Computer Science\n2  ms150401200  M.Phil in Education\n3  ms160200024  MBA (Equiv. to MS)\n4  ms070400021  MS in Computer Science\n5  ms160401132  MS in Computer Science\n6  ms160400030  M.Phil in Education\n7  ms150400819  MS in Computer Science\n8  ms160200361  MBA (Equiv. to MS)\n9  ms160400763  MBA (Equiv. to MS)\n10  mb130400068  MBA (Equivalent to MS) / MS in Business Administration\n11  mb120400301  MBA (Equivalent to MS) / MS in Business Administration For VU MBA (2-Years, 72 Cr. Hrs)\n12  ms160402272  MS in Business Administration\n13  ms160402097  MS in Computer Science\n14  ms150400821  MS in Computer Science\n15  ms160400419  MBA (Equiv. to MS)\n16  ms150400918  MS in Computer Science\n17  mb130200084  MBA (Equivalent to MS) / MS in Business Administration\n18  ms160200016  MS in Biotechnology\n19  ms160200025  MS in Zoology\n\n",
+          "language": ""
+        },
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4398"
+        }
+      ]
+    }
+  ]
+}

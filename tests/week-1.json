@@ -1,0 +1,113 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 1,
+      "type": "service",
+      "date": "2020-10-30T11:36:47",
+      "actor": "Virtual University of Pakistan",
+      "actor_id": 9999969886,
+      "action": "create_channel",
+      "title": "Virtual University of Pakistan",
+      "text": ""
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2020-10-30T11:39:19",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_1@30-10-2020_11-39-19.jpg",
+      "width": 1280,
+      "height": 851,
+      "text": ""
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2020-10-30T11:39:47",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 2,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of First Voucher to Continuing Students (Fall, 2020)"
+        },
+        "\n\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Oct 29, 2020"
+        },
+        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from October 22, 2020 to October 29, 2020. \n\nYou are directed to deposit payable voucher as per given schedule."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "service",
+      "date": "2020-10-30T11:52:18",
+      "actor": "Virtual University of Pakistan",
+      "actor_id": 9999969886,
+      "action": "edit_group_photo",
+      "photo": "photos/photo_2@30-10-2020_11-52-18.jpg",
+      "width": 640,
+      "height": 640,
+      "text": ""
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2020-10-30T11:55:50",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "MS Computer Science (Fall 2020 Semester)"
+        },
+        "\n\nMerit List of Candidates Eligible for Interview Published\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4348"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2020-10-30T12:20:26",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_3@30-10-2020_12-20-26.jpg",
+      "width": 649,
+      "height": 1280,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2020-10-30T12:21:06",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/2020 Fall Semester MSCS Merit List.png",
+      "thumbnail": "files/2020 Fall Semester MSCS Merit List.png_thumb.jpg",
+      "mime_type": "image/png",
+      "width": 3987,
+      "height": 7857,
+      "text": ""
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2020-11-05T18:39:51",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_4@05-11-2020_18-39-51.jpg",
+      "width": 1274,
+      "height": 632,
+      "text": "Course selection is not working for MSCS students.\n\nOn 2020-11-05, MS CS department has reported that this error has been referred to the IT department and will get fixed soon."
+    }
+  ]
+}

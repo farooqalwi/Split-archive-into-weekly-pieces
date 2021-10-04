@@ -1,0 +1,186 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 122,
+      "type": "message",
+      "date": "2021-01-12T21:31:04",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Blocking of VU-LMS Accounts"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Tuesday, January 12, 2021"
+        },
+        "\n\nIt is informed that LMS Accounts of all such students who have not paid their outstanding dues shall be blocked on ",
+        {
+          "type": "bold",
+          "text": "January 18, 2021"
+        },
+        ".\nStudents with blocked Accounts will not be able to carry out academic activities. It is therefore advised to clear all outstanding dues at the earliest, in order to avoid any inconvenience.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4380"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "type": "message",
+      "date": "2021-01-12T21:32:20",
+      "edited": "2021-01-12T21:34:06",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 117,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Cisco Certification from VU Cisco Netacad"
+        },
+        "\n\nVU Cisco Netacad is offering Entry & Associate Level online Certificates in the following areas:\n\n\u00b7 Cyber Security Essentials (1 month) \u2013 Rs. 4,000\n\u00b7 CyberOps Associate (2 months) \u2013 Rs. 6,000\n\u00b7 CCNA v7 (4 months) \u2013 Rs. 8,000\n\nApply Now to avail 20% discount in the fee\n\nTo apply click the following link \n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/netacad/"
+        },
+        "\n\nFor any query write to us at ",
+        {
+          "type": "code",
+          "text": "netacadsupport@vu.edu.pk"
+        },
+        "\n\n\u26a1 ",
+        {
+          "type": "bold",
+          "text": "Registration is Open till 20 January, 2021"
+        },
+        "\n\u26a1",
+        {
+          "type": "bold",
+          "text": "Session will start on 25 January, 2021"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "type": "message",
+      "date": "2021-01-12T21:37:10",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "AI001 - Introduction to AI for IT and Non-IT Professionals "
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Quiz No:1 Scheduled"
+        },
+        "\n\nQuiz will remain open for 2 days (48 hours only) from ",
+        {
+          "type": "bold",
+          "text": "January 19, 2021, to January 20, 2021"
+        },
+        ". \n\nQuiz 1 will cover course contents from ",
+        {
+          "type": "bold",
+          "text": "Topic no. 1 to 30"
+        },
+        " of your syllabus and it will be based on ",
+        {
+          "type": "bold",
+          "text": "15 multiple-choice questions"
+        },
+        " (MCQs). \n\nYou are advised to prepare for the quiz accordingly. \nIf any student fails to attempt the quiz in a given time, then no re-take will be allowed. So, be careful regarding the schedule."
+      ]
+    },
+    {
+      "id": 125,
+      "type": "message",
+      "date": "2021-01-15T22:45:02",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_17@15-01-2021_22-45-02.jpg",
+      "width": 1140,
+      "height": 859,
+      "text": [
+        {
+          "type": "bold",
+          "text": "VU Cisco NetAcad Certifications\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, January 14, 2021\n\n"
+        },
+        "VU Cisco NetAcad is offering Entry & Associate Level online Certifications in the following areas:\n\n\u00b7 Cyber Security Essentials (1 month) \u2013 Rs. 4,000\n\u00b7 CyberOps Associate (2 months) \u2013 Rs. 6,000\n\u00b7 CCNA v7 (4 months) \u2013 Rs. 8,000\n\nApply Now to avail 20% discount in the fee:\n\n",
+        {
+          "type": "bold",
+          "text": "https://www.vu.edu.pk/netacad\n\n"
+        },
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4381"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "type": "message",
+      "date": "2021-01-18T13:35:39",
+      "edited": "2021-02-14T13:32:50",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/701 Viva Notes 0.pdf",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation\n"
+        },
+        "Viva Notes\n",
+        {
+          "type": "italic",
+          "text": "Samad Amin's contribution\n\n"
+        },
+        {
+          "type": "hashtag",
+          "text": "#CS701"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "type": "message",
+      "date": "2021-01-18T13:35:44",
+      "edited": "2021-02-14T13:33:02",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/701 Viva Notes 1.pdf",
+      "thumbnail": "files/701 Viva Notes 1.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation\n"
+        },
+        "Viva Notes\n",
+        {
+          "type": "italic",
+          "text": "Samad Amin's contribution\n\n"
+        },
+        {
+          "type": "hashtag",
+          "text": "#CS701"
+        }
+      ]
+    }
+  ]
+}

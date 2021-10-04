@@ -1,0 +1,394 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 46,
+      "type": "message",
+      "date": "2020-11-23T04:51:42",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Ozsu_M_T_,_Valduriez_P_Principles_of_distributed_database_systems.pdf",
+      "thumbnail": "files/Ozsu_M_T_,_Valduriez_P_Principles_of_distributed_database_systems.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS712 - Distributed DBMS "
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Principles Of Distributed Database Systems\n"
+        },
+        "M. Tamer \u00d6zsu, Patrick Valduriez"
+      ]
+    },
+    {
+      "id": 47,
+      "type": "message",
+      "date": "2020-11-23T14:02:21",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS701_Assignment_No.1_Fall 2020.pdf",
+      "thumbnail": "files/CS701_Assignment_No.1_Fall 2020.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation "
+        },
+        "\nAssignment 1\nDue Date: 2020-11-30\n\ud83d\udea8",
+        {
+          "type": "bold",
+          "text": "Total Marks: 50"
+        },
+        "\ud83d\udea8"
+      ]
+    },
+    {
+      "id": 48,
+      "type": "message",
+      "date": "2020-11-23T14:02:25",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Assignment Paper.pdf",
+      "thumbnail": "files/Assignment Paper.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 49,
+      "type": "message",
+      "date": "2020-11-23T18:58:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 40,
+      "file": "files/JFLAP7.1.jar",
+      "mime_type": "application/java-archive",
+      "text": "JFLAP 7.1 version"
+    },
+    {
+      "id": 50,
+      "type": "message",
+      "date": "2020-11-23T19:27:33",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/jdk-15.0.1_windows-x64_bin.exe",
+      "mime_type": "application/octet-stream",
+      "text": "Java SE\nSetup for Windows 64bit"
+    },
+    {
+      "id": 51,
+      "type": "message",
+      "date": "2020-11-23T20:41:58",
+      "edited": "2020-11-23T20:42:06",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation "
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 1 - 2020-11-23"
+        },
+        "\n\n",
+        {
+          "type": "bold",
+          "text": "Steps to run JFLAP"
+        },
+        "\n\n1. Install latest Java\n",
+        {
+          "type": "italic",
+          "text": "Java8 is not necessary. Get the latest one. I ran the JFLAP from OpenJDK 15"
+        },
+        "\nDirect Download: ",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/50"
+        },
+        "\n\n2. Download the jar file\nDirect Download: ",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/49"
+        },
+        "\n\n3. Double click on the ",
+        {
+          "type": "code",
+          "text": "jar"
+        },
+        " file\nOr\n\nOpen command line and write\n",
+        {
+          "type": "code",
+          "text": "java -jar <path to the jar file>"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "type": "message",
+      "date": "2020-11-24T14:41:13",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_12@24-11-2020_14-41-13.jpg",
+      "width": 1002,
+      "height": 780,
+      "text": "This screenshot was taken at 14:40 (2:40PM) on 2020-11-24"
+    },
+    {
+      "id": 53,
+      "type": "message",
+      "date": "2020-11-24T14:52:52",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation "
+        },
+        "\nYouTube playlist of VU lectures\n\n",
+        {
+          "type": "link",
+          "text": "https://www.youtube.com/watch?v=oF92Z7qVivs&list=PL6FD2A444D412987C"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "type": "message",
+      "date": "2020-11-24T14:53:21",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design\n"
+        },
+        "YouTube playlist of VU lectures\n\n",
+        {
+          "type": "link",
+          "text": "https://www.youtube.com/watch?v=dmpDMkiTB8M&list=PL104E439436B0B73E"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "type": "message",
+      "date": "2020-11-24T14:53:47",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS710 Mobile and Pervasive Computing\n"
+        },
+        "YouTube playlist of VU lectures\n\n",
+        {
+          "type": "link",
+          "text": "https://www.youtube.com/watch?v=WOC931tF3IM&list=PLFX_EwFvKKWMzUgvb5xT2bjA8o6nrblK8"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "type": "message",
+      "date": "2020-11-24T22:25:48",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 52,
+      "text": [
+        "VU websites are under maintenance due to a technical issue. Please check back at ",
+        {
+          "type": "bold",
+          "text": "10 PM"
+        },
+        " for updates. Inconvenience is regretted. \n\n(Checked at 22:25)"
+      ]
+    },
+    {
+      "id": 57,
+      "type": "message",
+      "date": "2020-11-25T12:26:55",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 52,
+      "text": "LMS has resumed WORKING partially"
+    },
+    {
+      "id": 58,
+      "type": "message",
+      "date": "2020-11-27T14:29:31",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "LMS Service Outage"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nWe regret the recent outage of our LMS service which was impacted due to certain externally generated non-genuine traffic. The ICT teams worked diligently to identify and mitigate the issue in order to normalize our services. \n\nInconvenience caused is highly regretted. \n\nPlease check with your respective course instructors for any rescheduling in your semester activities.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4361"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "type": "message",
+      "date": "2020-11-27T14:30:17",
+      "edited": "2020-11-27T14:30:33",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension in due date of October'2020 Vouchers "
+        },
+        "\n(Due date was November 23, 2020)\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 23, 2020 has been extended till November 27, 2020.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4362"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "type": "message",
+      "date": "2020-11-27T14:31:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension In Due Date Of Installment Fee Voucher For The Month Of December, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nKeeping in view financial difficulties, the University has decided to give relaxation to students by extending due date of December\u20192020 installment voucher which has been extended till December 21, 2020. \n\nThis will applicable on those students who have made 5 installments of Fall'2020 semester dues (2 installments were due on December 4, 2020).\n\nStudents having 3 installments of Semester Dues for Fall'2020 will pay the dues as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4363"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "type": "message",
+      "date": "2020-11-27T14:33:36",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Assignment No 1.pdf",
+      "thumbnail": "files/Assignment No 1.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 1"
+        },
+        "\n\nDue date is ",
+        {
+          "type": "bold",
+          "text": "3rd  December 2020"
+        },
+        "\nTotal Marks: 50"
+      ]
+    },
+    {
+      "id": 62,
+      "type": "message",
+      "date": "2020-11-27T14:33:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 61,
+      "file": "files/Design_and_analysis_of_algorithms_reconsidered.pdf",
+      "thumbnail": "files/Design_and_analysis_of_algorithms_reconsidered.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 63,
+      "type": "message",
+      "date": "2020-11-27T14:33:54",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 61,
+      "file": "files/Assignment No 1.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 64,
+      "type": "message",
+      "date": "2020-11-28T05:40:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Federal Minister for IT visited Virtual University"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 27, 2020 "
+        },
+        "\n\nFederal Minister for Information Technology (IT) & Telecom, Syed Ameen Ul Haq paid a visit to Virtual University of Pakistan, Kala Shah Kaku Campus\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "type": "message",
+      "date": "2020-11-28T05:41:29",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension In Due Date Of October'2020 Vouchers"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 27, 2020 "
+        },
+        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 27, 2020 has been further extended till ",
+        {
+          "type": "bold",
+          "text": "December 10, 2020"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4364"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 199,
+      "type": "message",
+      "date": "2021-02-26T10:43:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Enrollments Open For Introduction To Artificial Intelligence Short Course\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, February 24, 2021\n\n"
+        },
+        "The Virtual University of Pakistan has launched ",
+        {
+          "type": "bold",
+          "text": "the second batch"
+        },
+        " of Introduction to Artificial Intelligence for IT And Non-IT Professionals certification course.\n\n",
+        {
+          "type": "bold",
+          "text": "Benefits:\n"
+        },
+        "Completing this course will earn you\n1. A Course Participation Certificate \n2. A VU Course Completion Certificate *\n3. AI concept building with Real-life examples\n* Terms & Conditions Apply\n \n",
+        {
+          "type": "bold",
+          "text": "Registration Link: https://www.vu.edu.pk/pages/intro_AI.aspx\n"
+        },
+        " \nBatch Duration: 6 Weeks\nVideos Duration: 14 hours\nFee: Free of Cost\nWho can Join: Intermediate ",
+        {
+          "type": "bot_command",
+          "text": "/Equivalent"
+        },
+        "\n \nFor more information, please email at ",
+        {
+          "type": "email",
+          "text": "ai001@vu.edu.pk"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4400"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 152,
+      "type": "message",
+      "date": "2021-02-05T21:31:29",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Guidelines for Overseas Students For Fall 2020 Final Term Examination\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, February 5, 2021\n\n"
+        },
+        {
+          "type": "bold",
+          "text": "OVERSEAS EXAMINATION RULES\n\n"
+        },
+        "As an overseas student You must adhere to \"Code of Conduct Outside of Pakistan\" from the following link:\n\n",
+        {
+          "type": "link",
+          "text": "http://handbook.vu.edu.pk/HandBook_Pages/ExaminationsOutsidePakistan.htm"
+        },
+        "\n\nOverseas Exam Software and related materials have been made available for download. Please make sure to install latest exam application available on the link given below. You must follow the sequence of instructions given below for smooth and error free installation:\n\n",
+        {
+          "type": "bold",
+          "text": "INSTRUCTIONS\n\n"
+        },
+        "1. Download and install VUTES exam software from following link ",
+        {
+          "type": "link",
+          "text": "http://qb.vu.edu.pk"
+        },
+        ".\n2. Download and install only TeamViewer on workstation from following link: ",
+        {
+          "type": "link",
+          "text": "http://qb.vu.edu.pk"
+        },
+        ".\nNote: Install the TeamViewer software for Personal/Non-Commercial use.\n3. Uninstall antivirus applications and disable windows firewall before the start of paper.\n4. System default language MUST be English (United States). It can be set from Control Panel -> Region and Language -> Format\n5. No proxy software/remote control software (except TeamViewer) should be installed or configured on the machine (like ultra-surf, hotspot shield, LogMeIn etc.).\n6. Disable Internet Explorer Proxy settings. It can be disabled from Internet Options -> Connections -> LAN Settings and uncheck proxy server settings.\n7. Do not configure external webcam to any other application (like MSN, Yahoo, Skype etc.); otherwise exam application will not detect the external webcam.\n8. After installation, you must go through the \u201cUser Manual\u201d for Know-How to attempt your paper.\n9. An icon will be visible on your desktop after installation of VUTES exam application. Please double click the icon to run the demo test.\n \n\n",
+        {
+          "type": "bold",
+          "text": "DEMO TEST\n\n"
+        },
+        "You may test your installation by joining any of the following sessions till February 25, 2021 during the specified session timings as mentioned below:\n \n",
+        {
+          "type": "pre",
+          "text": "Session 1:      07:30 A.M to 09:00 A.M (PST)\nSession 2:      09:30 A.M to 11:00 A.M (PST)\nSession 3:      11:30 A.M to 01:00 P.M (PST)\nSession 4:      02:30 P.M to 04:00 P.M (PST)\nSession 5:      04:30 P.M to 06:00 P.M (PST)\nSession 6:      06:30 P.M to 08:00 P.M (PST)\n",
+          "language": ""
+        },
+        " \nPlease use your student ID as login and password for login into the exam application to check demo test. For example,\n \n",
+        {
+          "type": "pre",
+          "text": "Student ID: BC19020XXXX (Your student ID)\nPassword: BC19020XXXX (Your student ID)\n",
+          "language": ""
+        },
+        " \nAfter completing the demo test, you must confirm your installation status by clicking the link \u201cClick here to confirm your installation status\u201d given on ",
+        {
+          "type": "link",
+          "text": "http://qb.vu.edu.pk"
+        },
+        "\n \nNote: There are no invigilators present during the demo sessions, so no need to reply the messages during demo. You can send us your feedback at ",
+        {
+          "type": "code",
+          "text": "overseasexams@vu.edu.pk"
+        },
+        " or you may also contact \u201c",
+        {
+          "type": "code",
+          "text": "Overseasexams"
+        },
+        "\u201d at Skype or through Whatsapp \"",
+        {
+          "type": "code",
+          "text": "+92-3000656908"
+        },
+        "\"during demo sessions for support.\n\nUAN: +9242111880880 Ext: 352\nDirect: ",
+        {
+          "type": "phone",
+          "text": "+92-42-99204760"
+        },
+        ", ",
+        {
+          "type": "phone",
+          "text": "+92-42-99203899"
+        },
+        "\nMobile/WhatsApp: ",
+        {
+          "type": "phone",
+          "text": "+92-3000656908"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4395"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 153,
+      "type": "message",
+      "date": "2021-02-06T12:28:09",
+      "edited": "2021-02-09T09:24:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 Video Presentation Assignment \n"
+        },
+        "Due Date: 2021-02-13\n\nYou can select any topic from the list for Presentation.\n\n1.   Do running time of Algorithm effects its efficiency?\n2.   Fundamental Data Structures Used in Algorithms.\n3.   Sorting Algorithms and their efficiency, considering time complexity.\n4.   Searching Algorithms and their efficiency, considering time complexity.\n5.   Graph Representation VS Tree Representation\n\nSee these messages for submission format and guidelines.\n\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/145"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/146"
+        },
+        "\n\n\u2014- \nDue date changed from 2021-02-11 to 2021-02-13\n\n",
+        {
+          "type": "hashtag",
+          "text": "#CS702"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 154,
+      "type": "message",
+      "date": "2021-02-07T20:25:07",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\n"
+        },
+        "Quiz 2 result has been declared"
+      ]
+    },
+    {
+      "id": 156,
+      "type": "message",
+      "date": "2021-02-09T09:37:21",
+      "edited": "2021-02-12T12:39:34",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Video Presentation Guidelines.pdf",
+      "thumbnail": "files/Video Presentation Guidelines.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 Video Presentation Assignment \n"
+        },
+        "Due Date: 2021-02-13\n\n",
+        {
+          "type": "bold",
+          "text": "Topic\n"
+        },
+        "Present an NP-Complete problem which is not already discussed in the video lectures.\n\nSee these messages for submission format and guidelines.\n\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/145"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vuopak/146"
+        },
+        "\n\n\nPossible Topics\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8907"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/9218"
+        },
+        "\n\nTopics you cannot choose\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8909"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8910"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8929"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://t.me/vupkmscs2020/8930"
+        },
+        "\n\n\n",
+        {
+          "type": "hashtag",
+          "text": "#CS701"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "type": "message",
+      "date": "2021-02-10T09:58:05",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Unblocking Of VU-LMS Accounts\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Tuesday, February 9, 2021\n\n"
+        },
+        "The University has unblocked LMS Accounts of the students in order to facilitate them in making date sheet for Fall'2020 (Final-Term) Exams and carry out other academic activities. However, It is advised to ",
+        {
+          "type": "bold",
+          "text": "clear outstanding dues at the earliest"
+        },
+        " to avoid blocking after the examination. \n\nStudents with blocked accounts will not be able to view Final-term result for Fall'2020 semester and make course selection for Spring'2021 semester.\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4396"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "type": "message",
+      "date": "2021-02-11T00:25:37",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "video_files/Inside_the_mind_of_a_master_procrastinator_Tim_Urban_arj7oStGLkU.mp4",
+      "thumbnail": "video_files/Inside_the_mind_of_a_master_procrastinator_Tim_Urban_arj7oStGLkU.mp4_thumb.jpg",
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 843,
+      "width": 1280,
+      "height": 720,
+      "text": "Inside the mind of a master procrastinator\nTim Urban - Ted Talk\n\nThis video is posted on this channel to help students understand why they keep postponing their assignments and exam preparations till the last moment."
+    }
+  ]
+}

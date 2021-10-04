@@ -1,0 +1,272 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 32,
+      "type": "message",
+      "date": "2020-11-16T18:11:05",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of 1st Voucher to Continuing Students (Fall'2020 Semester)"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Monday, November 16, 2020"
+        },
+        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 09, 2020 to November 16, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 09, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4358"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "message",
+      "date": "2020-11-17T23:15:52",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 18,
+      "file": "files/CS702 - Advanced Algorithms Analysis and Design-Handouts.pdf",
+      "thumbnail": "files/CS702 - Advanced Algorithms Analysis and Design-Handouts.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Lecture Handouts"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "message",
+      "date": "2020-11-17T23:21:10",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 17,
+      "file": "files/CS701 - Theory of Computation-Handouts.pdf",
+      "thumbnail": "files/CS701 - Theory of Computation-Handouts.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation"
+        },
+        "\nLecture Handouts"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "message",
+      "date": "2020-11-17T23:22:39",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 31,
+      "file": "files/CS706 - Software Quality Assurance-Handouts.pdf",
+      "thumbnail": "files/CS706 - Software Quality Assurance-Handouts.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance "
+        },
+        "\nLecture Handouts"
+      ]
+    },
+    {
+      "id": 37,
+      "type": "message",
+      "date": "2020-11-17T23:31:14",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Introduction to Algorithms - Thomas H.. Cormen.pdf",
+      "thumbnail": "files/Introduction to Algorithms - Thomas H.. Cormen.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\nComplementary Book\n",
+        {
+          "type": "italic",
+          "text": "Very important"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "type": "message",
+      "date": "2020-11-18T12:24:09",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_10@18-11-2020_12-24-09.jpg",
+      "width": 1280,
+      "height": 435,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance"
+        },
+        "\nSkype Session"
+      ]
+    },
+    {
+      "id": 39,
+      "type": "message",
+      "date": "2020-11-18T12:25:11",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_11@18-11-2020_12-25-11.jpg",
+      "width": 1148,
+      "height": 326,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\nSkpe Session"
+      ]
+    },
+    {
+      "id": 40,
+      "type": "message",
+      "date": "2020-11-19T13:50:18",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation "
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "JFLAP 7.0 Simulator Tutorial for designing Turing Machines "
+        },
+        "\n\nPlease visit following tutorial link for using the JFLAP 7.0 Simulator. \n\nJFLAP is software for experimenting with formal languages topics including nondeterministic finite automata, Turing machines, and multi-tape Turing machines. \n\nIn addition to constructing and testing examples for these, JFLAP allows one to experiment with construction proofs from one form to another. \n\nThis tutorial will help design the Turing machine in upcoming your assignment task.\n\n",
+        {
+          "type": "link",
+          "text": "http://www.jflap.org/tutorial/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "type": "message",
+      "date": "2020-11-19T13:51:58",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation\nWeekly Online Interactive Sessions"
+        },
+        "\n\nWe will have online interactive sessions every week through Skype on:\n\n",
+        {
+          "type": "italic",
+          "text": "Monday from 3:00 PM to 4:00 PM"
+        },
+        "\n\nTopic/Agenda for these sessions will be \u201cTopics discussed in lectures scheduled in the previous week\u201d. \n\nSkype id to join the session:        ",
+        {
+          "type": "bold",
+          "text": "saima.vu1"
+        },
+        "\n\nPlease send a request to the above mentioned skype id. Enter your VU ID and name to join the session during the designated time."
+      ]
+    },
+    {
+      "id": 42,
+      "type": "message",
+      "date": "2020-11-19T13:53:22",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Expected date and topics of the first assignment"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Offifical Response"
+        },
+        "\n\nAssignment may be uploaded next week, and it will cover all delivered lectures, uptill now."
+      ]
+    },
+    {
+      "id": 43,
+      "type": "message",
+      "date": "2020-11-20T19:20:37",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf",
+      "thumbnail": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\nComplementary Book\n3rd Edition"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "message",
+      "date": "2020-11-20T23:17:16",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of First Voucher to Continuing Students (Fall'2020 Semester) "
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 20, 2020"
+        },
+        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 16, 2020 to November 20, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 16, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4359"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "type": "message",
+      "date": "2020-11-20T23:17:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of Semester Voucher for Fall, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 20, 2020"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4360"
+        }
+      ]
+    }
+  ]
+}

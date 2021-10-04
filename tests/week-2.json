@@ -1,0 +1,497 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2020-11-09T14:24:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension in due date of Need based Scholarship for Fall, 2020 "
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 6, 2020"
+        },
+        "\n\nAll the students are informed that last date to apply for need based scholarship (Fall'2020 semester) has been extended till Thursday, November 12, 2020.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4350"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2020-11-09T14:28:45",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 8,
+      "photo": "photos/photo_5@09-11-2020_14-28-45.jpg",
+      "width": 810,
+      "height": 530,
+      "text": [
+        "On 2020-11-06, MSCS department sent out this email to all MSCS students from ",
+        {
+          "type": "code",
+          "text": "mscs_courseselection@vu.edu.pk"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2020-11-09T16:29:14",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "To find email addresses of other VU students"
+        },
+        ", log in to your VU Gmail account and then visit this link:\n\n",
+        {
+          "type": "link",
+          "text": "https://contacts.google.com/directory"
+        },
+        "\n\nIt will take some time to load. Eventually, it will display all the email addresses that are present in the VU organization.\n\nThe administrators have kept some addresses hidden probably for privacy and to fight spam.\n\nYou can look up other students from your batch, using your VU ID.\n\n",
+        {
+          "type": "bold",
+          "text": "Kindly do not use abuse this system."
+        },
+        " So far, VU has not provided any way for students to communicate with each other. ",
+        {
+          "type": "bold",
+          "text": "If you misuse it, then administrators can hide the directory, and we will not be able to discover our fellow batch members."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2020-11-09T16:58:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of 1st Voucher to Continuing Students (Fall-2020 Semester)"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Monday, November 9, 2020 "
+        },
+        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from October 29, 2020 to November 09, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to October 29, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4351"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2020-11-09T17:04:16",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_6@09-11-2020_17-04-16.jpg",
+      "width": 1191,
+      "height": 1280,
+      "text": [
+        "VU has published the date of ",
+        {
+          "type": "bold",
+          "text": "mid term exams"
+        },
+        ".\n\n",
+        {
+          "type": "bold",
+          "text": "2020-12-26 (December 26)"
+        },
+        "\n\n",
+        {
+          "type": "italic",
+          "text": "Source"
+        },
+        ": ",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/StudentServices/AcademicCalendar.aspx"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "service",
+      "date": "2020-11-09T17:04:23",
+      "actor": "Virtual University of Pakistan",
+      "actor_id": 9999969886,
+      "action": "pin_message",
+      "message_id": 12,
+      "text": ""
+    },
+    {
+      "id": 15,
+      "type": "message",
+      "date": "2020-11-09T18:58:38",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Michael_Sipser_Introduction_to_the_Theory_of_Computation_2012,_Thomson.pdf",
+      "thumbnail": "files/Michael_Sipser_Introduction_to_the_Theory_of_Computation_2012,_Thomson.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 Theory of Computation"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Required subject for MSCS students\n"
+        },
+        "\nIntroduction to the theory of computation\nby Michael Sipser\n3rd Edition"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "message",
+      "date": "2020-11-09T19:02:23",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Introduction_to_the_theory_of_computation.pdf",
+      "thumbnail": "files/Introduction_to_the_theory_of_computation.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 Theory of Computation"
+        },
+        "\nIt's a required subject for MSCS students.\n\nIntroduction to the theory of computation\nby Michael Sipser\n2nd Edition"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "message",
+      "date": "2020-11-09T19:27:57",
+      "edited": "2020-11-09T19:28:55",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS701 Theory of Computation Lecture Slides.pdf",
+      "thumbnail": "files/CS701 Theory of Computation Lecture Slides.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 Theory of Computation"
+        },
+        "\nIt's a required subject for MSCS students.\n\nAll lecture slides have been merged into one PDF.\n\n",
+        {
+          "type": "italic",
+          "text": "Some slides are incorrectly "
+        },
+        "labelled",
+        {
+          "type": "italic",
+          "text": " and repeated in the source material."
+        },
+        "\nI have tried to correct the issues as much as possible."
+      ]
+    },
+    {
+      "id": 18,
+      "type": "message",
+      "date": "2020-11-10T12:41:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS702 Advanced Algorithms Analysis and Design Lecture Slides.pdf",
+      "thumbnail": "files/CS702 Advanced Algorithms Analysis and Design Lecture Slides.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Required subject for MSCS"
+        },
+        "\n\nI have converted all the PPT slides to PDF and then merged them into one."
+      ]
+    },
+    {
+      "id": 19,
+      "type": "message",
+      "date": "2020-11-10T14:26:52",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Federal Minister for IT om, Syed Ameen Ul Haq visited Virtual University"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Tuesday, November 10, 2020 "
+        },
+        "\n\n> He also visited Virtual University, M.A Jinnah Campus (Head Office) and ",
+        {
+          "type": "bold",
+          "text": "inaugurated"
+        },
+        " the newly launched \u201cLearning Management System\u201d for VU students.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "type": "message",
+      "date": "2020-11-10T15:05:08",
+      "edited": "2020-11-10T15:06:26",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        "\u26a0\ufe0f ",
+        {
+          "type": "bold",
+          "text": "Attention MSCS 2020 students"
+        },
+        " \u26a0\ufe0f\nThe bug in VULMS course selection has been ",
+        {
+          "type": "bold",
+          "text": "fixed"
+        },
+        ".\n\nPlease make your course selection ASAP."
+      ]
+    },
+    {
+      "id": 21,
+      "type": "message",
+      "date": "2020-11-10T15:09:19",
+      "edited": "2020-11-10T16:00:33",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 20,
+      "photo": "photos/photo_7@10-11-2020_15-09-19.jpg",
+      "width": 1280,
+      "height": 254,
+      "text": "Finalize your course selection by 2020-11-12"
+    },
+    {
+      "id": 22,
+      "type": "message",
+      "date": "2020-11-10T17:46:39",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS719-Research Methodologies"
+        },
+        " is not available for selection in the first semester of MSCS.\n\n",
+        {
+          "type": "italic",
+          "text": "Official VU response:"
+        },
+        "\nYou will be able to select it in the second semester."
+      ]
+    },
+    {
+      "id": 23,
+      "type": "message",
+      "date": "2020-11-10T18:11:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        "\u26a0\ufe0f About MSCS course selection \u26a0\ufe0f\nOfficial VU response:\n\nAs per HEC guidelines, \n",
+        {
+          "type": "bold",
+          "text": "In first semester, you should choose two required courses and one course from your specialization. "
+        },
+        "\n\nYou can choose courses from any semester but it is better to choose two required courses and one course from your specialization even if these are 2nd or any semester courses."
+      ]
+    },
+    {
+      "id": 24,
+      "type": "message",
+      "date": "2020-11-11T14:25:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Board of Governors of Virtual University had a meeting with the President of Pakistan"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, November 11, 2020 "
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4354"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "message",
+      "date": "2020-11-11T14:28:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_8@11-11-2020_14-28-46.jpg",
+      "width": 1196,
+      "height": 1162,
+      "text": [
+        "President of Pakistan, Dr Arif Alvi tweeted about Virtual University.\nHe said\n\n",
+        {
+          "type": "italic",
+          "text": "Vitual University will lead the way towards a future of non-elitist higher education, available at much lower cost than that available at physical brick & mortar universities. A great opportunity for those who pass FA/FSc, need to earn livelihood, & at same time study for BA/BSc."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "message",
+      "date": "2020-11-11T14:31:48",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_9@11-11-2020_14-31-48.jpg",
+      "width": 462,
+      "height": 618,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Gudielines for MSCS Course Selection"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Official VU response"
+        },
+        "\n\nYou can select ",
+        {
+          "type": "bold",
+          "text": "minimum one"
+        },
+        " and ",
+        {
+          "type": "bold",
+          "text": "maximum three"
+        },
+        " courses in a semester. \n\nPlease see the attached image for the generic semester wise guideline for course selection, as ",
+        {
+          "type": "bold",
+          "text": "recommended by HEC"
+        },
+        "."
+      ]
+    },
+    {
+      "id": 28,
+      "type": "message",
+      "date": "2020-11-12T17:59:11",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Course Selection due date has been extended up to Wednesday, November 18"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 12, 2020 "
+        },
+        "\n\nIt is hereby intimated that course selection due date for add/drop/replace course(s) has been extended up to Wednesday, November 18, 2020.\n\nStudents\u2019 failing to enroll/ select any course(s) by the last date will be treated as \u201cInactive Student\u201d such students may continue their studies after \u201cReadmission\u201d as per the University policy.\n\nNote:\n\n1.    Students' will be responsible for his/her late course enrollment, any quizzes or assignment(s) if have been given or taken; \n2.    No request for the enrollment of courses and unfreeze of semester will be entertained after above said date;\n3.    Fee voucher once issued will not be adjusted/revised.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4355"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "type": "message",
+      "date": "2020-11-12T18:00:23",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Last date to apply for need based scholarship has been extended to Wednesday, November 18, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 12, 2020"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4356"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "message",
+      "date": "2020-11-13T16:38:13",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Last chance to deposit fee for admission in fall 2020 session"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 13, 2020"
+        },
+        "\n\nApplicants whose Admission Application Forms were accepted for admission in their respective study program are informed to ",
+        {
+          "type": "bold",
+          "text": "deposit \u201cAdmission Fee Voucher\u201d on or before Wednesday, November 18, 2020"
+        },
+        " for the confirmation of their admissions.\n\nNo request will be entertained after November 18, 2020. \n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4357"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "type": "message",
+      "date": "2020-11-14T15:49:57",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS706 - Software Quality Assurance.pdf",
+      "thumbnail": "files/CS706 - Software Quality Assurance.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance"
+        },
+        "\nLecture Slides\n\nI have converted all the slides into PDF and them merged them into a single file."
+      ]
+    }
+  ]
+}

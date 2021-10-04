@@ -1,0 +1,91 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 77,
+      "type": "message",
+      "date": "2020-12-07T13:43:04",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "VU Cisco Network Academy is starting a new batch"
+        },
+        "\n\nVU Cisco Network Academy is starting a new batch of the following courses.\n\n1. Network Essentials\n2. Introduction to Internet of Things (IoT)\n\nThese are basic courses, but it will open the doors to several highly valuable certifications. This is just the first step to a whole new dimension of IT related courses.\n\nSo, don\u2019t miss the opportunity and get yourself enrolled in the courses and get an internationally recognized certificate.\n\nPlease visit ",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/netacad/"
+        },
+        " for registration.\n\nRegistration opening date is ",
+        {
+          "type": "bold",
+          "text": "3 December, 2020"
+        },
+        "\nRegistration closing date is ",
+        {
+          "type": "bold",
+          "text": "8 December, 2020"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "type": "message",
+      "date": "2020-12-09T12:15:53",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 73,
+      "text": [
+        "On ",
+        {
+          "type": "italic",
+          "text": "December 3, 2020"
+        },
+        ", VU clarified that \nin place of Mid Term Exams, it will either conduct a Mid Term ",
+        {
+          "type": "bold",
+          "text": "Quiz"
+        },
+        " or will issue a ",
+        {
+          "type": "bold",
+          "text": "Special Assignment"
+        },
+        "."
+      ]
+    },
+    {
+      "id": 79,
+      "type": "message",
+      "date": "2020-12-09T23:19:22",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Postgraduate Students : Submit your Migration Certificate"
+        },
+        "\n\nAll students (",
+        {
+          "type": "italic",
+          "text": "Except VU graduates"
+        },
+        ") are required to submit their ",
+        {
+          "type": "bold",
+          "text": "Migration Certificate (original)"
+        },
+        " from the last Pakistani institute/university attended to the office of the Registrar within 6 weeks of issuance of their admission offer letter. \nSubmit the same on or before ",
+        {
+          "type": "bold",
+          "text": "January 11, 2021"
+        },
+        "\n\nPlease note the following:\n\n1. Photocopy/color copy/scanned copy of Migration Certificate is unacceptable.\n2. (a) Campus based students may submit the said certificate to their respective campus and obtain receipt.\n2. (b) Home based/overseas students may send directly to VU Head Office address.\n3. VU ID must be clearly mentioned on top right corner of the migration certificate."
+      ]
+    }
+  ]
+}
