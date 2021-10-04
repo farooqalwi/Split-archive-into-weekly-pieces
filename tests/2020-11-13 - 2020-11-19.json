@@ -4,6 +4,52 @@
   "id": 9999969886,
   "messages": [
     {
+      "id": 30,
+      "type": "message",
+      "date": "2020-11-13T16:38:13",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Last chance to deposit fee for admission in fall 2020 session"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 13, 2020"
+        },
+        "\n\nApplicants whose Admission Application Forms were accepted for admission in their respective study program are informed to ",
+        {
+          "type": "bold",
+          "text": "deposit \u201cAdmission Fee Voucher\u201d on or before Wednesday, November 18, 2020"
+        },
+        " for the confirmation of their admissions.\n\nNo request will be entertained after November 18, 2020. \n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4357"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "type": "message",
+      "date": "2020-11-14T15:49:57",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/CS706 - Software Quality Assurance.pdf",
+      "thumbnail": "files/CS706 - Software Quality Assurance.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance"
+        },
+        "\nLecture Slides\n\nI have converted all the slides into PDF and them merged them into a single file."
+      ]
+    },
+    {
       "id": 32,
       "type": "message",
       "date": "2020-11-16T18:11:05",
@@ -203,69 +249,6 @@
           "text": "Offifical Response"
         },
         "\n\nAssignment may be uploaded next week, and it will cover all delivered lectures, uptill now."
-      ]
-    },
-    {
-      "id": 43,
-      "type": "message",
-      "date": "2020-11-20T19:20:37",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "file": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf",
-      "thumbnail": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf_thumb.jpg",
-      "mime_type": "application/pdf",
-      "text": [
-        {
-          "type": "bold",
-          "text": "CS702 - Advanced Algorithms Analysis and Design"
-        },
-        "\nComplementary Book\n3rd Edition"
-      ]
-    },
-    {
-      "id": 44,
-      "type": "message",
-      "date": "2020-11-20T23:17:16",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Issuance of First Voucher to Continuing Students (Fall'2020 Semester) "
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Friday, November 20, 2020"
-        },
-        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 16, 2020 to November 20, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 16, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4359"
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "type": "message",
-      "date": "2020-11-20T23:17:44",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Issuance of Semester Voucher for Fall, 2020"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Friday, November 20, 2020"
-        },
-        "\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4360"
-        }
       ]
     }
   ]

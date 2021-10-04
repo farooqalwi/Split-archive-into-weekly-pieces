@@ -4,6 +4,64 @@
   "id": 9999969886,
   "messages": [
     {
+      "id": 103,
+      "type": "message",
+      "date": "2020-12-25T15:27:52",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 47,
+      "file": "files/Fall 2020_CS701_1_SOL.pdf",
+      "thumbnail": "files/Fall 2020_CS701_1_SOL.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": "Official solution to CS701 Assignment 1"
+    },
+    {
+      "id": 104,
+      "type": "message",
+      "date": "2020-12-25T22:11:50",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 81,
+      "file": "files/Fall 2020_CS701_2_SOL.pdf",
+      "thumbnail": "files/Fall 2020_CS701_2_SOL.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        "Official solution to ",
+        {
+          "type": "bold",
+          "text": "CS701 - Assignment 2"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "type": "message",
+      "date": "2020-12-25T22:11:59",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 81,
+      "file": "files/Fall 2020_CS701_2_SOL.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 106,
+      "type": "message",
+      "date": "2020-12-26T21:39:49",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS707_4.pdf",
+      "thumbnail": "files/Fall 2020_CS707_4.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS707 - Network Security"
+        },
+        "\nSpecial (Mid Terms) Assignmeent"
+      ]
+    },
+    {
       "id": 107,
       "type": "message",
       "date": "2020-12-28T10:41:32",
@@ -99,69 +157,6 @@
           "text": "CS702 - Advanced Algorithms Analysis and Design\n"
         },
         "Mid Terms"
-      ]
-    },
-    {
-      "id": 112,
-      "type": "message",
-      "date": "2021-01-01T21:42:54",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Final Merit List for 11th Convocation (Fall 2018 & Spring 2019 Semesters) "
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Thursday, December 31, 2020 "
-        },
-        "\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=3197"
-        }
-      ]
-    },
-    {
-      "id": 113,
-      "type": "message",
-      "date": "2021-01-02T00:09:39",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "file": "files/Fall 2020_CS712_4.pdf",
-      "thumbnail": "files/Fall 2020_CS712_4.pdf_thumb.jpg",
-      "mime_type": "application/pdf",
-      "text": [
-        {
-          "type": "bold",
-          "text": "CS712 - Distributed DBMS"
-        },
-        "\nMid Terms"
-      ]
-    },
-    {
-      "id": 114,
-      "type": "message",
-      "date": "2021-01-03T14:44:00",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Need Based Scholarship Award List for Fall, 2020"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Wednesday, December 30, 2020 "
-        },
-        "\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4378"
-        }
       ]
     }
   ]

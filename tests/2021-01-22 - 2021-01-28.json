@@ -1,0 +1,140 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 133,
+      "type": "message",
+      "date": "2021-01-22T15:45:34",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_20@22-01-2021_15-45-34.jpg",
+      "width": 972,
+      "height": 248,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance\n"
+        },
+        "Skype Sessions"
+      ]
+    },
+    {
+      "id": 134,
+      "type": "message",
+      "date": "2021-01-25T18:29:35",
+      "edited": "2021-01-25T18:30:28",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_21@25-01-2021_18-29-35.jpg",
+      "width": 904,
+      "height": 1280,
+      "text": [
+        "The Department of Mass Communication Virtual University of Pakistan has organized a webinar \n",
+        {
+          "type": "bold",
+          "text": "Islamophobia and Western Media"
+        },
+        " on ",
+        {
+          "type": "bold",
+          "text": "January 28, 2021"
+        },
+        ".\n\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Monday, January 25, 2021\n\n"
+        },
+        {
+          "type": "bold",
+          "text": "All participants will get e-certificate\n\n"
+        },
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4391"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "type": "message",
+      "date": "2021-01-25T21:45:11",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\nQuiz 1"
+        },
+        " Result has been announced"
+      ]
+    },
+    {
+      "id": 136,
+      "type": "message",
+      "date": "2021-01-28T12:20:30",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "AI001 - Introduction to AI for IT and Non-IT Professionals\nQuiz No:2 Scheduled\n\nQuiz"
+        },
+        " 2 will remain open for 2 days (48 hours only) from \n",
+        {
+          "type": "bold",
+          "text": "\ud83d\uddd3 February 3, 2021, to February 4, 2021"
+        },
+        ".\n\nQuiz 2 will cover course contents from Topic no. ",
+        {
+          "type": "bold",
+          "text": "31 to 56"
+        },
+        " of syllabus and it will be based on \n15 multiple-choice questions (MCQs)."
+      ]
+    },
+    {
+      "id": 137,
+      "type": "message",
+      "date": "2021-01-28T12:27:43",
+      "edited": "2021-01-28T12:27:56",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "photo": "photos/photo_22@28-01-2021_12-27-43.jpg",
+      "width": 912,
+      "height": 905,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Imagine Cup Organized By HEC Soft\n"
+        },
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, January 28, 2021\n\n"
+        },
+        "Imagine Cup is world\u2019s leading premier competition organized by Higher Education Commission & Microsoft for HEIs in Pakistan. \nEach year, a team is chosen from Pakistan that competes against the best from around the world, to get a chance to win ",
+        {
+          "type": "bold",
+          "text": "USD75,000"
+        },
+        ".\n\nThis year, Imagine Cup is live again and we encourage you to visit this link \n",
+        {
+          "type": "link",
+          "text": "https://imaginecup.com/pakistan"
+        },
+        " and register yourself.\n\nThe submissions are open till ",
+        {
+          "type": "bold",
+          "text": "31st January 2021"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://vu.edu.pk/NewsDetails.aspx?type=&NewsId=4392"
+        },
+        ""
+      ]
+    }
+  ]
+}

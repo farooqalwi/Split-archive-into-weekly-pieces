@@ -4,6 +4,79 @@
   "id": 9999969886,
   "messages": [
     {
+      "id": 74,
+      "type": "message",
+      "date": "2020-12-05T18:07:14",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension In Due Date Of Fee Vouchers"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Saturday, December 5, 2020"
+        },
+        "\n\nDue to Connectivity issues, students are informed that due date of fee vouchers which were due on December 04, 2020 or December 05, 2020 has been extended till ",
+        {
+          "type": "bold",
+          "text": "December 07, 2020"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4368"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "type": "message",
+      "date": "2020-12-06T13:53:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "On issues and bugs in the new version of LMS"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Sunday, December 6, 2020 "
+        },
+        "\n\nRecently, Virtual University of Pakistan launched a new version of LMS with a new user interface and intuitive features. However, some functionality and features have been presented differently for ease of use and student activity tracking. Like any new version of a software some features are liked by users and others take time getting used to. ",
+        {
+          "type": "bold",
+          "text": "The ICT teams are actively looking into any complaints and evaluating feedback in order to make it even better and more functional.\n"
+        },
+        "\nAt the same time, unfortunately, ",
+        {
+          "type": "bold",
+          "text": "some miscreants started generating severe BruteForce and DDoS cyber-attacks on LMS to make it inaccessible "
+        },
+        "for obvious reasons. The ICT teams are continuously taking measures to mitigate these attacks on our websites and will not rest till the issue is resolved. We regret the inconvenience caused and appreciate your patience.\n\nThe University authorities have identified these sources and gathered the requisite information, which is now being sent to FIA Cyber Crimes wing for further action against these culprits.\n\nFurthermore, to compensate students with their graded activities the university extended the deadlines for different graded activities as deemed appropriate, so that students could make their submissions.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4369"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "type": "message",
+      "date": "2020-12-06T14:16:26",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "forwarded_from": "VU NOTICES",
+      "photo": "photos/photo_13@06-12-2020_14-16-26.jpg",
+      "width": 680,
+      "height": 680,
+      "text": ""
+    },
+    {
       "id": 77,
       "type": "message",
       "date": "2020-12-07T13:43:04",

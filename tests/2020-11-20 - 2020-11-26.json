@@ -4,6 +4,69 @@
   "id": 9999969886,
   "messages": [
     {
+      "id": 43,
+      "type": "message",
+      "date": "2020-11-20T19:20:37",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf",
+      "thumbnail": "files/Thomas_H_Cormen,_Charles_E_Leiserson,_Ronald_L_Rivest,_Clifford.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\nComplementary Book\n3rd Edition"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "message",
+      "date": "2020-11-20T23:17:16",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of First Voucher to Continuing Students (Fall'2020 Semester) "
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 20, 2020"
+        },
+        "\n\nStudents are informed that the University has issued first voucher (Semester Enrollment fee + One Course fee) for Fall, 2020 semester to continuing students, who have made course selection from November 16, 2020 to November 20, 2020. Furthermore, the University has already issued said fee voucher to those who made course selection prior to November 16, 2020.\n\nYou are directed to deposit payable voucher as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4359"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "type": "message",
+      "date": "2020-11-20T23:17:44",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Issuance of Semester Voucher for Fall, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 20, 2020"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4360"
+        }
+      ]
+    },
+    {
       "id": 46,
       "type": "message",
       "date": "2020-11-23T04:51:42",
@@ -217,178 +280,6 @@
       "from_id": 9999969886,
       "reply_to_message_id": 52,
       "text": "LMS has resumed WORKING partially"
-    },
-    {
-      "id": 58,
-      "type": "message",
-      "date": "2020-11-27T14:29:31",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "LMS Service Outage"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Thursday, November 26, 2020 "
-        },
-        "\n\nWe regret the recent outage of our LMS service which was impacted due to certain externally generated non-genuine traffic. The ICT teams worked diligently to identify and mitigate the issue in order to normalize our services. \n\nInconvenience caused is highly regretted. \n\nPlease check with your respective course instructors for any rescheduling in your semester activities.\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4361"
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "type": "message",
-      "date": "2020-11-27T14:30:17",
-      "edited": "2020-11-27T14:30:33",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Extension in due date of October'2020 Vouchers "
-        },
-        "\n(Due date was November 23, 2020)\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Thursday, November 26, 2020 "
-        },
-        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 23, 2020 has been extended till November 27, 2020.\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4362"
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "type": "message",
-      "date": "2020-11-27T14:31:12",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Extension In Due Date Of Installment Fee Voucher For The Month Of December, 2020"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Thursday, November 26, 2020 "
-        },
-        "\n\nKeeping in view financial difficulties, the University has decided to give relaxation to students by extending due date of December\u20192020 installment voucher which has been extended till December 21, 2020. \n\nThis will applicable on those students who have made 5 installments of Fall'2020 semester dues (2 installments were due on December 4, 2020).\n\nStudents having 3 installments of Semester Dues for Fall'2020 will pay the dues as per given schedule.\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4363"
-        },
-        ""
-      ]
-    },
-    {
-      "id": 61,
-      "type": "message",
-      "date": "2020-11-27T14:33:36",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "file": "files/Assignment No 1.pdf",
-      "thumbnail": "files/Assignment No 1.pdf_thumb.jpg",
-      "mime_type": "application/pdf",
-      "text": [
-        {
-          "type": "bold",
-          "text": "CS702 - Advanced Algorithms Analysis and Design"
-        },
-        "\n",
-        {
-          "type": "bold",
-          "text": "Assignment 1"
-        },
-        "\n\nDue date is ",
-        {
-          "type": "bold",
-          "text": "3rd  December 2020"
-        },
-        "\nTotal Marks: 50"
-      ]
-    },
-    {
-      "id": 62,
-      "type": "message",
-      "date": "2020-11-27T14:33:46",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "reply_to_message_id": 61,
-      "file": "files/Design_and_analysis_of_algorithms_reconsidered.pdf",
-      "thumbnail": "files/Design_and_analysis_of_algorithms_reconsidered.pdf_thumb.jpg",
-      "mime_type": "application/pdf",
-      "text": ""
-    },
-    {
-      "id": 63,
-      "type": "message",
-      "date": "2020-11-27T14:33:54",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "reply_to_message_id": 61,
-      "file": "files/Assignment No 1.docx",
-      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "text": ""
-    },
-    {
-      "id": 64,
-      "type": "message",
-      "date": "2020-11-28T05:40:46",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Federal Minister for IT visited Virtual University"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Friday, November 27, 2020 "
-        },
-        "\n\nFederal Minister for Information Technology (IT) & Telecom, Syed Ameen Ul Haq paid a visit to Virtual University of Pakistan, Kala Shah Kaku Campus\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "type": "message",
-      "date": "2020-11-28T05:41:29",
-      "from": "Virtual University of Pakistan",
-      "from_id": 9999969886,
-      "text": [
-        {
-          "type": "bold",
-          "text": "Extension In Due Date Of October'2020 Vouchers"
-        },
-        "\n",
-        {
-          "type": "italic",
-          "text": "Published On:  Friday, November 27, 2020 "
-        },
-        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 27, 2020 has been further extended till ",
-        {
-          "type": "bold",
-          "text": "December 10, 2020"
-        },
-        ".\n\n",
-        {
-          "type": "link",
-          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4364"
-        }
-      ]
     }
   ]
 }

@@ -1,0 +1,339 @@
+{
+  "name": "Virtual University of Pakistan",
+  "type": "public_channel",
+  "id": 9999969886,
+  "messages": [
+    {
+      "id": 58,
+      "type": "message",
+      "date": "2020-11-27T14:29:31",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "LMS Service Outage"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nWe regret the recent outage of our LMS service which was impacted due to certain externally generated non-genuine traffic. The ICT teams worked diligently to identify and mitigate the issue in order to normalize our services. \n\nInconvenience caused is highly regretted. \n\nPlease check with your respective course instructors for any rescheduling in your semester activities.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4361"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "type": "message",
+      "date": "2020-11-27T14:30:17",
+      "edited": "2020-11-27T14:30:33",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension in due date of October'2020 Vouchers "
+        },
+        "\n(Due date was November 23, 2020)\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 23, 2020 has been extended till November 27, 2020.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4362"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "type": "message",
+      "date": "2020-11-27T14:31:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension In Due Date Of Installment Fee Voucher For The Month Of December, 2020"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Thursday, November 26, 2020 "
+        },
+        "\n\nKeeping in view financial difficulties, the University has decided to give relaxation to students by extending due date of December\u20192020 installment voucher which has been extended till December 21, 2020. \n\nThis will applicable on those students who have made 5 installments of Fall'2020 semester dues (2 installments were due on December 4, 2020).\n\nStudents having 3 installments of Semester Dues for Fall'2020 will pay the dues as per given schedule.\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4363"
+        },
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "type": "message",
+      "date": "2020-11-27T14:33:36",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Assignment No 1.pdf",
+      "thumbnail": "files/Assignment No 1.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS702 - Advanced Algorithms Analysis and Design"
+        },
+        "\n",
+        {
+          "type": "bold",
+          "text": "Assignment 1"
+        },
+        "\n\nDue date is ",
+        {
+          "type": "bold",
+          "text": "3rd  December 2020"
+        },
+        "\nTotal Marks: 50"
+      ]
+    },
+    {
+      "id": 62,
+      "type": "message",
+      "date": "2020-11-27T14:33:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 61,
+      "file": "files/Design_and_analysis_of_algorithms_reconsidered.pdf",
+      "thumbnail": "files/Design_and_analysis_of_algorithms_reconsidered.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 63,
+      "type": "message",
+      "date": "2020-11-27T14:33:54",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 61,
+      "file": "files/Assignment No 1.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 64,
+      "type": "message",
+      "date": "2020-11-28T05:40:46",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Federal Minister for IT visited Virtual University"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 27, 2020 "
+        },
+        "\n\nFederal Minister for Information Technology (IT) & Telecom, Syed Ameen Ul Haq paid a visit to Virtual University of Pakistan, Kala Shah Kaku Campus\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4352"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "type": "message",
+      "date": "2020-11-28T05:41:29",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Extension In Due Date Of October'2020 Vouchers"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Friday, November 27, 2020 "
+        },
+        "\n\nDue to technical issues arising in LMS services, October'2020 fee vouchers which had due date of November 27, 2020 has been further extended till ",
+        {
+          "type": "bold",
+          "text": "December 10, 2020"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4364"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "type": "message",
+      "date": "2020-11-30T16:57:12",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 47,
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS701 - Theory of Computation "
+        },
+        "\nAssignment 1\n\nDue date of assignment no 1 has been ",
+        {
+          "type": "bold",
+          "text": "extended"
+        },
+        ". Now you can submit the assignment till ",
+        {
+          "type": "bold",
+          "text": "December 03, 2020"
+        },
+        ".\n\nAlso, VU gives an extension of 24 hours, after every assignment's deadline for emergencies.\nThis extension is granted for assignments only. Quizes, GDB and MidTerm and FinalExams have no such provision."
+      ]
+    },
+    {
+      "id": 67,
+      "type": "message",
+      "date": "2020-11-30T19:29:22",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Fall 2020_CS706_1.pdf",
+      "thumbnail": "files/Fall 2020_CS706_1.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance\n"
+        },
+        "Academic Research Paper\nTotal Marks: ",
+        {
+          "type": "bold",
+          "text": "100"
+        },
+        "\nDue date: 2021-02-01"
+      ]
+    },
+    {
+      "id": 68,
+      "type": "message",
+      "date": "2020-11-30T19:29:32",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 67,
+      "file": "files/Fall 2020_CS706_1.doc",
+      "mime_type": "application/msword",
+      "text": ""
+    },
+    {
+      "id": 69,
+      "type": "message",
+      "date": "2020-12-01T10:41:01",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "file": "files/Assignment No. 1_706_20.pdf",
+      "thumbnail": "files/Assignment No. 1_706_20.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": [
+        {
+          "type": "bold",
+          "text": "CS706 - Software Quality Assurance\n"
+        },
+        "Assignment 2\nTotal Marks: 5",
+        {
+          "type": "bold",
+          "text": "0"
+        },
+        "\nDue date: 2020-12-05"
+      ]
+    },
+    {
+      "id": 70,
+      "type": "message",
+      "date": "2020-12-01T10:41:47",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 69,
+      "file": "files/Assignment No. 1_706_20.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text": ""
+    },
+    {
+      "id": 71,
+      "type": "message",
+      "date": "2020-12-01T10:42:02",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "reply_to_message_id": 69,
+      "file": "files/software quality assurance.pdf",
+      "thumbnail": "files/software quality assurance.pdf_thumb.jpg",
+      "mime_type": "application/pdf",
+      "text": ""
+    },
+    {
+      "id": 72,
+      "type": "message",
+      "date": "2020-12-03T00:59:36",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Officers from Press Information Department visited VU"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, December 2, 2020"
+        },
+        "\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4366"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "type": "message",
+      "date": "2020-12-03T01:01:09",
+      "from": "Virtual University of Pakistan",
+      "from_id": 9999969886,
+      "text": [
+        {
+          "type": "bold",
+          "text": "Mid Term Quiz instead of Mid Term Examinations"
+        },
+        "\n",
+        {
+          "type": "italic",
+          "text": "Published On:  Wednesday, December 2, 2020 "
+        },
+        "\n\nDue to the prevailing COVID - 19 Pandemic, the Virtual University of Pakistan has decided that an online \u201cMid Term Quiz\u201d will be conducted in lieu of Mid Term Examinations for the Fall 2020 semester.\n\nPlease note the followings:\n\n1. The date sheet schedule for \u201cMid Term Quiz\u201d will be published after ",
+        {
+          "type": "bold",
+          "text": "December 16, 2020"
+        },
+        ".\n2. \u201cMid Term Quiz\u201d will be conducted between ",
+        {
+          "type": "bold",
+          "text": "December 26, 2020, to January 10, 2021"
+        },
+        ".\n\n",
+        {
+          "type": "link",
+          "text": "https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4367"
+        },
+        ""
+      ]
+    }
+  ]
+}

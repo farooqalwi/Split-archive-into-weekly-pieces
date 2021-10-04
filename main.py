@@ -97,11 +97,12 @@ def read_json(filepath):
 
 def split_json_weekly_basis(json_data):
     """This function splits json into weekly basis"""
+    no_of_days = int(input("Enter no of days to split json: "))
     output_file_name = 1
     initial_post_date = datetime.strptime(
         json_data["messages"][0]["date"], DATE_FORMAT
     ).date()
-    after_week = initial_post_date + timedelta(days=6)
+    after_week = initial_post_date + timedelta(days=no_of_days - 1)
 
     content = {
         "name": json_data["name"],
@@ -115,14 +116,15 @@ def split_json_weekly_basis(json_data):
         if date <= after_week:
             content["messages"].append(message)
         elif date > after_week:
-            generate_json(content, f"tests\\week-{output_file_name}.json")
+            generate_json(content, f"tests\\{initial_post_date} - {after_week}.json")
             output_file_name += 1
             content["messages"] = []
             content["messages"].append(message)
-            after_week = date + timedelta(days=6)
+            initial_post_date = date
+            after_week += timedelta(days=(no_of_days))
 
         if message == json_data["messages"][-1]:
-            generate_json(content, f"tests\\week-{output_file_name}.json")
+            generate_json(content, f"tests\\{initial_post_date} - {after_week}.json")
 
 
 def generate_json(content, output_file_name):
