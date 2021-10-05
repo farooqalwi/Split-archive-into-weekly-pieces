@@ -113,15 +113,27 @@ def create_output_folder(rootfolder, subfoldername):
 
 def move_photo(rootfolder, photo, initial_post_date, after_week):
     """This function moves photo to subfolde as respect to its post date"""
-    shutil.move(os.path.join(rootfolder, photo), os.path.join(rootfolder, "output", f"{initial_post_date} - {after_week}"))
-    logger.info("%s moved to subfolder %s - %s", photo, initial_post_date, after_week)
-    if len(os.listdir(os.path.join(rootfolder, "photos"))) == 0:
-        os.rmdir(os.path.join(rootfolder, "photos"))
+    try:
+        shutil.move(os.path.join(rootfolder, photo), os.path.join(rootfolder, "output", f"{initial_post_date} - {after_week}"))
+        logger.info("%s moved to subfolder %s - %s", photo, initial_post_date, after_week)
+    except FileNotFoundError:
+        logger.error("%s not found", photo)
+
+
+def delete_photo_folder(rootfolder):
+    """This function deletes photo folder after all photos move to respected date folders"""
+    if os.path.isdir(os.path.join(rootfolder, "photos")):
+        shutil.rmtree(os.path.join(rootfolder, "photos"))
 
 
 def split_json_weekly_basis(rootfolder, json_data):
     """This function splits json into weekly basis"""
-    no_of_days = int(input("Enter no of days to split json: "))
+    no_of_days = input("Enter no of days to split json: ")
+    try:
+        no_of_days = int(no_of_days)
+    except ValueError:
+        logger.error("%s must be an integer", no_of_days)
+        raise FunctionFailed from Exception
     output_file_name = 1
     initial_post_date = datetime.strptime(
         json_data["messages"][0]["date"], DATE_FORMAT
@@ -154,6 +166,7 @@ def split_json_weekly_basis(rootfolder, json_data):
         if message == json_data["messages"][-1]:
             generate_json(rootfolder, content, f"{initial_post_date} - {after_week}")
             logger.info("%s - %s.json created", initial_post_date, after_week)
+            delete_photo_folder(rootfolder)
         
         if "photo" in message:
             move_photo(rootfolder, message["photo"], initial_post_date, after_week)
