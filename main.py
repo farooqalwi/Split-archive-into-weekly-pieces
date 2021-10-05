@@ -10,8 +10,11 @@ __license__ = "MIT"
 import os
 import json
 import sys
+import shutil
 import argparse
 from datetime import datetime, timedelta, timezone
+import weakref
+from colorama.initialise import init
 from logzero import logger, logfile
 
 
@@ -71,13 +74,13 @@ def validate_path_folder(path):
     return validated_path
 
 
-def is_exist_json(folderpath):
+def is_exist_json(rootfolder):
     """it checks either 'json' file exists or not"""
-    filepath = f"{os.path.join(folderpath, 'result.json')}"
+    filepath = f"{os.path.join(rootfolder, 'result.json')}"
     if os.path.isfile(filepath):
         json_existed = filepath
     else:
-        logger.error("<%s> does not contain 'result.json' file", folderpath)
+        logger.error("<%s> does not contain 'result.json' file", rootfolder)
         raise FunctionFailed from Exception
 
     return json_existed
@@ -95,7 +98,28 @@ def read_json(filepath):
         return json_file
 
 
-def split_json_weekly_basis(json_data):
+def create_output_folder(rootfolder, subfoldername):
+    """This function creates output folders with respective dates"""
+    if not os.path.isdir(os.path.join(rootfolder, "output")):
+        os.mkdir(os.path.join(rootfolder, "output"))
+        logger.info("Output folder created")
+    
+    if os.path.isdir(os.path.join(rootfolder, "output", subfoldername)):
+        shutil.rmtree(os.path.join(rootfolder, "output", subfoldername))
+        logger.info("old %s subfolder removed", subfoldername)
+    os.mkdir(os.path.join(rootfolder, "output", subfoldername))
+    logger.info("%s subfolder created", subfoldername)
+
+
+def move_photo(rootfolder, photo, initial_post_date, after_week):
+    """This function moves photo to subfolde as respect to its post date"""
+    shutil.move(os.path.join(rootfolder, photo), os.path.join(rootfolder, "output", f"{initial_post_date} - {after_week}"))
+    logger.info("%s moved to subfolder %s - %s", photo, initial_post_date, after_week)
+    if len(os.listdir(os.path.join(rootfolder, "photos"))) == 0:
+        os.rmdir(os.path.join(rootfolder, "photos"))
+
+
+def split_json_weekly_basis(rootfolder, json_data):
     """This function splits json into weekly basis"""
     no_of_days = int(input("Enter no of days to split json: "))
     output_file_name = 1
@@ -103,6 +127,7 @@ def split_json_weekly_basis(json_data):
         json_data["messages"][0]["date"], DATE_FORMAT
     ).date()
     after_week = initial_post_date + timedelta(days=no_of_days - 1)
+    create_output_folder(rootfolder, f"{initial_post_date} - {after_week}")
 
     content = {
         "name": json_data["name"],
@@ -113,23 +138,31 @@ def split_json_weekly_basis(json_data):
 
     for message in json_data["messages"]:
         date = datetime.strptime(message["date"], DATE_FORMAT).date()
+
         if date <= after_week:
             content["messages"].append(message)
         elif date > after_week:
-            generate_json(content, f"tests\\{initial_post_date} - {after_week}.json")
+            generate_json(rootfolder, content, f"{initial_post_date} - {after_week}")
+            logger.info("%s - %s.json created", initial_post_date, after_week)
             output_file_name += 1
             content["messages"] = []
             content["messages"].append(message)
             initial_post_date = date
             after_week += timedelta(days=(no_of_days))
+            create_output_folder(rootfolder, f"{initial_post_date} - {after_week}")
 
         if message == json_data["messages"][-1]:
-            generate_json(content, f"tests\\{initial_post_date} - {after_week}.json")
+            generate_json(rootfolder, content, f"{initial_post_date} - {after_week}")
+            logger.info("%s - %s.json created", initial_post_date, after_week)
+        
+        if "photo" in message:
+            move_photo(rootfolder, message["photo"], initial_post_date, after_week)
 
 
-def generate_json(content, output_file_name):
+def generate_json(rootfolder, content, output_name):
     """This function generates the json file"""
-    with open(output_file_name, "w", encoding="utf-8") as file:
+    outputpath = os.path.join(rootfolder, "output", output_name, f"{output_name}.json")
+    with open(outputpath, "w", encoding="utf-8") as file:
         json.dump(content, file, indent=2)
 
 
@@ -156,13 +189,13 @@ def main():
         # path from cmd
         path = args.arg
         # folder path after validation
-        folderpath = validate_path_folder(path)
+        rootfolder = validate_path_folder(path)
         # json file path
-        json_path = is_exist_json(folderpath)
+        json_path = is_exist_json(rootfolder)
         # json data
         json_data = read_json(json_path)
         # split json file
-        split_json_weekly_basis(json_data)
+        split_json_weekly_basis(rootfolder, json_data)
 
         sys.exit(0)
     except FunctionFailed:
